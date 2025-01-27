@@ -1,0 +1,600 @@
+questions,area,topic
+Describe the concept of *thermal runaway* in IGBT devices.,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+What is voltage-controlled oscillator?.,Amplifiers and Oscillators,Oscillator
+How does a piezoelectric sensor generate an electrical signal?.,Electronic Components and Applications,Capacitor
+Describe the gate drive requirements for an IGBT.,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+What is a flip-flop and how is it used in digital circuits?,Digital Electronics,Flip-Flop
+Discuss the merits of using a bridge rectifier in voltmeter circuits for accurate AC voltage measurement.,Rectification and Diode Circuits,Bridge Rectifier
+What is the significance of the **holding current** in an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is Tuned Oscillator Circuit?.,Amplifiers and Oscillators,Oscillator
+Explain the principle of *soft switching* in IGBT applications.,Power Electronics,IGBT as Inverter
+Describe the regions for Transistor?.,Transistors,Load Line Shift for Transistor
+Describe the basic working principle of a light dimmer using a triac.,Power Electronics,TRIAC (Triode for Alternating Current) Application
+What is the significance of Moore's Law in the context of integrated circuits?,Miscellaneous Topics,Shockley’s Equation
+What is the significance of *switching losses* in IGBT operation?,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+What are the advantages of using a CMOS technology over NMOS or PMOS alone?.,Transistors,NMOS (N-type Metal-Oxide-Semiconductor)
+Describe three terminals of MOSFET?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What are the applications of programmable logic arrays (PLAs)?,Digital Electronics,Electronic Components and Applications
+Describe the applications of light-activated SCRs?,Power Electronics,LSCR (Light-Triggered Silicon Controlled Rectifier)
+How do you design a 2-to-4 line decoder using basic logic gates?,Logic Gates,Decoder
+Explain the difference between a D flip-flop and a T flip-flop.,Digital Electronics,TTL (Transistor-Transistor Logic)
+What are the cooling methods used for IGBT modules?,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+Explain the working principle of an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+How does scaling down the dimensions of MOSFETs affect their performance?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+How does a 7805 voltage regulator IC maintain a constant 5V output?.,Electronic Components and Applications,Voltage Regulator IC
+Why is the MOSFET considered a voltage-controlled device?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What are the Turn on condition for MOSFET?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+How does a small base current control a much larger collector current in a BJT?.,Transistors,BJT (Bipolar Junction Transistor)
+Describe the operation of an IGBT.,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+How do ICs contribute to the miniaturization of electronic devices?,Electronic Components and Applications,Integrated Circuits (ICs)
+What is the significance of the power rating of a resistor?.,Electronic Components and Applications,Resistor
+What is Frequency Demodulation?.,Miscellaneous Topics,Miller Effect Capacitance
+How does a MOSFET act as a switch in a digital logic circuit?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+Define a digital signal. How is it different from an analog signal?,Electronic Components and Applications,Capacitor
+What is the role of an IGBT in a power factor correction (PFC) circuit?,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+How does a sigma-delta ADC work and where is it used?,Rectification and Diode Circuits,Sigma-Delta ADC
+What is a Field-Programmable Gate Array (FPGA)?,Miscellaneous Topics,Shockley’s Equation
+Describe constant-gain circuit?.,Amplifiers and Oscillators,Amplifier
+Explain the function of a phase-locked loop (PLL) in an IC.,Electronic Components and Applications,555 Timer
+What is a signal generator and what is it used for?.,Electronic Instruments,Sawtooth Generator
+Describe five-stage ladder network?.,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+Explain the role of the electron gun in a CRT and how it contributes to the display of waveforms.,Electronic Instruments,CRT (Cathode Ray Tube)
+What is the ohmic region for JFET?.,Transistors,JFET (Junction Field-Effect Transistor)
+Explain the working principle of a light-activated SCR?,Power Electronics,LSCR (Light-Triggered Silicon Controlled Rectifier)
+Describe RIPPLE FACTOR OF RECTIFIER?.,Rectification and Diode Circuits,Ripples
+How do you calculate the total capacitance in a parallel circuit?.,Electronic Components and Applications,Capacitor
+What is the significance of the V-I characteristics of an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+Describe the function of an SR flip-flop with a truth table.,Digital Electronics,SR flip-flop
+Describe Fixed-Negative-Voltage Regulators?.,Electronic Components and Applications,Capacitor
+What are the key parameters to consider when selecting an IGBT?,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+How is a power MOSFET used in switching applications?,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+Describe programmable unijunction transistor?.,Transistors,UJT (Unijunction Transistor)
+Explain the significance of a setup and hold time in digital circuits.,Digital Electronics,Digital Electronics
+What is a digital clock and how does it use counters and flip-flops?,Digital Electronics,Digital Electronics
+Describe the principle of operation of a *current source inverter* using an IGBT,Power Electronics,IGBT as Inverter
+Describe the operation of a basic RC resistor-capacitor circuit. ?.,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+Explain the impact of hot carrier injection on MOSFET reliability. ?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What is Nortons Current?.,Miscellaneous Topics,Thevenin Voltage and Norton Current
+How does a monostable multivibrator function?,Amplifiers and Oscillators,Astable Multivibrator
+What is the significance of a truth table in digital electronics?,Logic Gates,AND Gate
+Explain the significance of isolation techniques in IC design.,Electronic Components and Applications,Photodiodes
+What are minterms and maxterms in Boolean algebra?,Logic Gates,AND Gate
+What is the role of an IGBT in a three-phase inverter?,Power Electronics,IGBT as Inverter
+Explain the concept of a multiplexer and its use in digital electronics.,Digital Electronics,Multiplexers (MUX)
+What are the use of Shocley's equation?.,Miscellaneous Topics,Shockley’s Equation
+What is the purpose of a relay module in electronic circuits?.,Electronic Components and Applications,Electronic Instruments
+What is the difference between a series and a parallel circuit?.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+What is the role of a power MOSFET in a *half-bridge inverter*?,Power Electronics,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What is the function of a Zener diode in a voltage regulation circuit?.,Electronic Components and Applications,Diode
+What are the main factors that contribute to MOSFET gate leakage current?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+How does an IGBT contribute to the operation of a cycloconverter?,Power Electronics,IGBT as Inverter
+How a Transistor constructed?.,Transistors,Construction of Transistors
+What is Valence Band?.,Electronic Components and Applications,Photodiodes
+Define the term thyristor and explain how it relates to an SCR?,Power Electronics,Thyristor
+What is DTL?.,Digital Electronics,DTL (Diode-Transistor Logic)
+What is pet option coverage?.,Miscellaneous Topics,Shockley’s Equation
+What is Thermal Energy ?.,Miscellaneous Topics,Shockley’s Equation
+What are the advantages of using a relay module over directly switching high voltage loads with a microcontroller?.,Electronic Components and Applications,Relay
+What is Zener diode?.,Electronic Components and Applications,Diode
+Describe the process of designing a simple digital lock using flip-flops.,Digital Electronics,TTL (Transistor-Transistor Logic)
+Explain the working principle of a basic operational amplifier op-amp?.,Amplifiers and Oscillators,OP AMP (Operational Amplifier)
+What is dual slope method ?.,Electronic Instruments,Electronic Instruments
+Compare the advantages and disadvantages of analog and digital multimeters in terms of accuracy and usability.,Electronic Instruments,Multimeter
+What is peak output voltage output swing?.,Amplifiers and Oscillators,Amplifier
+What are the primary factors to consider when selecting a MOSFET for high-frequency switching applications?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What is FET?.,Transistors,FET (Field-Effect Transistor)
+What is the difference between an IGBT and a power MOSFET?,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+How does the *temperature coefficient* affect the performance of an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+How do ICs improve the reliability of electronic systems?,Electronic Components and Applications,Integrated Circuits (ICs)
+Explain the concept of a magnitude comparator and its application.,Digital Electronics,Magnitude Comparator
+Why BJT is called Bi Polar?.,Transistors,BJT (Bipolar Junction Transistor)
+Describe the operation of an astable multivibrator.,Amplifiers and Oscillators,Astable Multivibrator
+Describe how a finite state machine (FSM) can be used to model a traffic light system.,Digital Electronics,Miscellaneous Topics
+How does a frequency counter measure the frequency of a signal?.,Electronic Instruments,Electronic Instruments
+What are the limitations of using a triac in high-power applications?,Power Electronics,TRIAC (Triode for Alternating Current) Application
+What is Semiconductor?.,Electronic Components and Applications,LED (Light Emitting Diode)
+Explain the concept of a binary-coded decimal (BCD).,Digital Electronics,Binary-coded Decimal (BCD)
+Describe the process of calibrating a multimeter and the importance of regular calibration.,Electronic Instruments,Multimeter
+Describe the use of a sample-and-hold circuit in ADCs.,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+How does the *latching current* differ from the *holding current* in an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What Is Chopping waveform?.,Rectification and Diode Circuits,Rectification
+Describe the operation of an IGBT in a single-phase inverter.,Power Electronics,IGBT as Inverter
+How is an IGBT used in a bidirectional switch?,Power Electronics,IGBT as Inverter
+What is a bistable multivibrator and its application?,Amplifiers and Oscillators,Astable Multivibrator
+"What does MOSFET stand for, and how does it differ from a BJT?.",Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What is bridge configuration?.,Rectification and Diode Circuits,Bridge Rectifier
+What are the limitations of IGBTs in high-frequency applications?,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+What is Astable multivibrator ?.,Amplifiers and Oscillators,Astable Multivibrator
+Explain the importance of yield in IC manufacturing.,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+What are the main advantages of using a VTVM over other types of voltmeters in laboratory settings?,Electronic Instruments,VTVM (Vacuum Tube Voltmeter)
+Explain how a voltmeter is connected in a circuit to measure the voltage across a component.,Electronic Instruments,Multimeter
+What is comparator unit?.,Amplifiers and Oscillators,Comparator
+Explain the concept of a Gray code.,Digital Electronics,Miscellaneous Topics
+What is XTAL?.,Electronic Components and Applications,Crystals (XTAL)
+How do you calculate the inductance of a coil?.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+What is the role of the base resistor in a BJT amplifier circuit?.,Transistors,BJT (Bipolar Junction Transistor)
+Describe JFET Small Signal Model?.,Transistors,JFET (Junction Field-Effect Transistor)
+Describe Types Of Amplifier?.,Amplifiers and Oscillators,Amplifier
+How many waves can be used for diode rectification?.,Rectification and Diode Circuits,Rectification
+What is a system-on-chip (SoC) and how is it different from a standard IC?,Miscellaneous Topics,Miller Effect Capacitance
+Describe Sawtooth Generator?.,Electronic Instruments,Sawtooth Generator
+Describe FSK Decoders?.,Digital Electronics,FSK (Frequency Shift Keying) Decoders
+Explain the concept of a mixed-signal IC.,Electronic Components and Applications,Mixed-Signal IC
+Explain the **reverse blocking** state of an SCR.,Power Electronics,Reverse Blocking Mode of SCR
+what is transconductance?.,Transistors,BJT (Bipolar Junction Transistor)
+"How does temperature affect the resistance of conductors and semiconductors, and what are the implications for electronic circuit design?.",Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+Define a digital-to-analog converter (DAC) and its function.,Electronic Components and Applications,DAC (Digital-to-Analog Converter)
+What are the advantages of using ICs over discrete components?,Electronic Components and Applications,Electronic Instruments
+What are the characteristics of a high-frequency signal?.,Miscellaneous Topics,Miller Effect Capacitance
+What are *De Morgan's Theorems*?,Logic Gates,De Morgan's Theorems
+How do you implement a BJT as an audio amplifier?.,Amplifiers and Oscillators,Amplifier
+What is Current-series feedback?.,Amplifiers and Oscillators,Amplifier
+How is an IGBT used in a multi-level inverter?,Power Electronics,IGBT as Inverter
+How do you design a MOSFET common-source amplifier with a given gain?.,Amplifiers and Oscillators,Amplifier
+What is a demultiplexer and how is it different from a multiplexer?,Digital Electronics,Mux and Demux
+Describe the purpose of a voltage reference IC.,Electronic Components and Applications,Voltage Reference IC
+Describe Effect of Negative Feedback on Bandwidth?.,Amplifiers and Oscillators,Amplifier
+Describe the process of converting a decimal number to binary.,Digital Electronics,Miscellaneous Topics
+Explain the concept of *saturation voltage* in an IGBT.,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+How does an IGBT function in a voltage source converter?,Power Electronics,IGBT as Inverter
+What are the key differences between the decimal and hexadecimal number systems in terms of digit range and usage?,Miscellaneous Topics,Shockley’s Equation
+Describe the working of a *buck converter* using a power MOSFET.,Power Electronics,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+How is *gate triggering* used to turn on an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is the purpose of a timing diagram in digital circuits?,Digital Electronics,Digital Electronics
+What are the common types of failure modes in ICs?,Electronic Components and Applications,LED (Light Emitting Diode)
+Describe the operation of an IGBT in a snubberless inverter.,Power Electronics,IGBT as Inverter
+What are the light-triggering characteristics of LASCR?.,Power Electronics,LSCR (Light-Triggered Silicon Controlled Rectifier)
+"Define SSI, MSI, LSI, VLSI, and ULSI.",Electronic Components and Applications,Miscellaneous Topics
+Describe multistage frequency effects of an amplifier?.,Amplifiers and Oscillators,Amplifier
+What is Transformer-Coupled PushPull Circuits?.,Amplifiers and Oscillators,Amplifier
+What are the key parameters to consider when selecting an SCR for an application?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is a Silicon Controlled Rectifier (SCR)?,Power Electronics,SCR (Silicon Controlled Rectifier)
+"How does the doping level of the emitter, base, and collector regions affect the performance of a BJT?.",Transistors,BJT (Bipolar Junction Transistor)
+Explain the principle of an active low-pass filter and its advantages over a passive low-pass filter. ?.,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+Describe phase relationship for AC biasing?.,Rectification and Diode Circuits,"Biasing (DC, AC)"
+Describe Reverse Recover Time For Diode?.,Rectification and Diode Circuits,Diode
+Explain the operation of a 555 timer IC in astable mode. ?.,Electronic Components and Applications,555 Timer
+How does a digital multiplexer function in signal selection?,Digital Electronics,TTL (Transistor-Transistor Logic)
+What is a **snubber circuit** and why is it used with SCRs?,Power Electronics,SCR (Silicon Controlled Rectifier)
+Describe Digital-Analog Converters?.,Electronic Components and Applications,ADC (Analog-to-Digital Converter)
+How are ICs classified based on their integration scale?,Electronic Components and Applications,555 Timer
+What is the role of an IGBT in a high-power solid-state relay?,Power Electronics,IGBT as Inverter
+Describe Peak Diode Current?.,Rectification and Diode Circuits,Diode
+What is a digital system and how does it differ from an analog system?,Digital Electronics,RTL (Resistor-Transistor Logic)
+What are the typical voltage and current ratings for commercial SCRs?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is Quasi-Complementary PushPull Amplifier?.,Amplifiers and Oscillators,Amplifier
+What is Q-point for DC Biasing?.,Transistors,Load Line Shift for Transistor
+How does an analog multiplexer work in an integrated circuit?,Electronic Components and Applications,555 Timer
+Define Binary-Coded Decimal (BCD) and explain how to represent the decimal number 92 in BCD.,Digital Electronics,Binary-Coded Decimal (BCD)
+What are the main components of a Cathode Ray Tube (CRT) used in a CRO?,Electronic Instruments,CRT (Cathode Ray Tube)
+Describe the input and output characteristics of a CE amplifier. ?.,Amplifiers and Oscillators,Amplifier
+What is sound modulated light source?.,Electronic Components and Applications,LED (Light Emitting Diode)
+What are the key differences between a synchronous and an asynchronous counter?,Digital Electronics,Digital Electronics
+"What is the base value of the binary number system, and why is it significant in digital electronics?",Logic Gates,NOT Gate
+What is the significance of the load line analysis in the context of diode and transistor circuits?.,Transistors,Load Line Shift for Transistor
+Describe Power Efficiency Of Amplifier?.,Amplifiers and Oscillators,Amplifier
+How does an OR gate operate? Provide its truth table.,Logic Gates,OR Gate
+What are the advantages of using a triac over an SCR in AC control?,Power Electronics,TRIAC (Triode for Alternating Current) Application
+Application for the SCR For Emergency Lighting System?.,Power Electronics,SCR (Silicon Controlled Rectifier)
+Explain the operation of an SCR in a bidirectional power switch.,Power Electronics,SCR (Silicon Controlled Rectifier)
+What are the safety considerations for handling and operating IGBTs?,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+Describe the procedure for measuring AC voltage using a digital multimeter.,Electronic Instruments,Multimeter
+How is an IGBT protected against overvoltage conditions?,Power Electronics,IGBT as Inverter
+"What is a Cathode Ray Oscilloscope (CRO), and how is it used to observe electrical waveforms?",Electronic Instruments,Cathode Ray Oscilloscope
+What are the primary factors to consider when selecting a MOSFET for high-frequency switching applications?,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+Describe the process of Nematic liquid crystal with applied bias. ?.,Electronic Components and Applications,LCD (Liquid Crystal Display)
+What is phase-locked loop?.,Miscellaneous Topics,Miller Effect Capacitance
+What is single ended output voltage?.,Amplifiers and Oscillators,Amplifier
+What are the harmonic contents for square wave?.,Rectification and Diode Circuits,Rectification
+What is CRYSTAL OSCILLATOR?.,Electronic Components and Applications,Crystal Oscillator
+What is Voltage Buffer?.,Amplifiers and Oscillators,"Voltage Buffer, Subtraction (Using OP AMP)"
+"How does a multimeter measure resistance, and what are the common issues to look out for during this measurement?",Electronic Instruments,Multimeter
+Theoretically Describe Steady-state voltagecurrent characteristics of a thermistor?.,Electronic Components and Applications,Thermistor
+What are passive electronic components?.,Electronic Components and Applications,Capacitor
+How does a power MOSFET operate in a *boost converter* circuit?,Power Electronics,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What is the Nyquist rate and why is it important in digital sampling?,Miscellaneous Topics,Nyquist Rate and Digital Sampling
+Describe The Operation Of Class B Amplifer?.,Amplifiers and Oscillators,Amplifier
+What are the benefits of using a digital storage oscilloscope over a traditional CRO?,Electronic Instruments,Cathode Ray Oscilloscope
+What is Ripple Factor of Rectified Signal??.,Rectification and Diode Circuits,Ripples
+Describe Beta Range Theoretically For Transistor?.,Transistors,BJT (Bipolar Junction Transistor)
+Describe Closed-Loop Gain?.,Amplifiers and Oscillators,Amplifier
+Describe the process of wafer testing in IC production.,Electronic Components and Applications,Photodiodes
+Explain the function of a digital-to-analog converter (DAC) in an IC.,Electronic Components and Applications,Digital-to-Analog Converter (DAC)
+What is pickup transducer?.,Electronic Components and Applications,Photodiodes
+What is Parallel-Resonant Circuits?.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+What is the purpose of a shift register in digital electronics?,Digital Electronics,Digital Electronics
+Explain the operation of a 4-bit ripple carry counter.,Digital Electronics,Ripple Carry Counter
+"Explain how to convert a binary number directly to a hexadecimal number, and provide an example with the binary number 11101101.",Digital Electronics,RTL (Resistor-Transistor Logic)
+Describe how a digital display decoder works with a seven-segment display.,Digital Electronics,Digital Electronics
+What are the advantages and disadvantages of using the octal number system compared to the binary system?,Digital Electronics,RTL (Resistor-Transistor Logic)
+How do you implement a simple finite state machine (FSM) using flip-flops?,Digital Electronics,RTL (Resistor-Transistor Logic)
+What is fixed time interval for dual slope converter?.,Electronic Instruments,Electronic Instruments
+Explain the concept of alternating current AC and direct current DC.,Rectification and Diode Circuits,Rectification
+How do you calculate the total resistance in a series circuit?.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+What are the characteristics of a resistor with a high resistance value?.,Electronic Components and Applications,Capacitor
+Explain the difference between a monolithic IC and a hybrid IC.,Electronic Components and Applications,Electronic Components and Applications
+Explain the operation of a parity generator and checker.,Digital Electronics,RTL (Resistor-Transistor Logic)
+What is the function of a clock generator IC in electronic circuits?,Electronic Components and Applications,555 Timer
+What is load line shift?.,Transistors,Load Line Shift for Transistor
+Describe the **forward blocking state** of an SCR.,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is an isolation amplifier and why is it used in measurement systems?.,Electronic Instruments,Electronic Instruments
+Describe the role of an SCR in a half-wave rectifier circuit?,Rectification and Diode Circuits,SCR in Rectifiers
+Define a XNOR gate and provide its truth table.,Logic Gates,Universal Gates
+Describe Effect of Negative Feedback on Gain?.,Amplifiers and Oscillators,Amplifier
+How does a triac control the speed of an AC motor?,Power Electronics,TRIAC (Triode for Alternating Current) Application
+What is Intrinsic Materials?.,Miscellaneous Topics,Intrinsic and Extrinsic Semiconductors
+Define Clipper & Clamper Circuit?.,Rectification and Diode Circuits,Clipper and Clamper Circuits
+Describe Reduction in Noise?.,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+How a Zener diode works in Revere bias?.,Rectification and Diode Circuits,Diode
+What is deplation region?.,Transistors,BJT (Bipolar Junction Transistor)
+What is a *triac* and how does it differ from an SCR?,Power Electronics,TRIAC (Triode for Alternating Current)
+Why we use capacitor in mobile phone charging circuit?.,Electronic Components and Applications,Capacitor
+How can an SCR be used for AC power control?,Power Electronics,SCR as Inverter
+What is voltage resolution?.,Electronic Instruments,Multimeter
+How do you design a 4-bit synchronous up-counter?,Digital Electronics,TTL (Transistor-Transistor Logic)
+Define LEDs & LCDs?.,Electronic Components and Applications,LED (Light Emitting Diode)
+Discuss the advantages of using MOSFETs in high-frequency applications. ?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+How is an SCR protected against overcurrent conditions?,Power Electronics,SCR (Silicon Controlled Rectifier)
+Describe digital-to-analog conversion?.,Electronic Components and Applications,555 Timer
+Describe the process of implementing a digital filter using a finite impulse response (FIR) structure.,Digital Electronics,Finite Impulse Response (FIR) Filter
+What is Darlington transistor?.,Transistors,Bipolar Junction Transistor
+Discuss the demerits or limitations of a CRO compared to modern digital storage oscilloscopes.,Electronic Instruments,Cathode Ray Oscilloscope
+What is the function of a varistor in a surge protection circuit?.,Electronic Components and Applications,Varistor
+what is low cutt off frequency ?.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+What is Thermal Analogy of a Power Transistor?.,Amplifiers and Oscillators,Power Transistor
+What are the main functions of a digital signal processor (DSP) IC?,Electronic Components and Applications,555 Timer
+How does a power amplifier differ from a signal amplifier in ICs?,Amplifiers and Oscillators,Amplifier
+What are minority Carriers?.,Transistors,BJT (Bipolar Junction Transistor)
+Describe the operation of a bandgap reference. ?.,Electronic Components and Applications,Bandgap Reference
+What Voltage-shunt feedback ?.,Amplifiers and Oscillators,OP AMP (Operational Amplifier)
+Describe the function of a half adder in digital circuits.,Adders,Half Adder
+What is a *single-phase SCR inverter* and how does it operate?,Power Electronics,SCR as Inverter
+Describe the basic structure of an integrated circuit.,Electronic Components and Applications,LED (Light Emitting Diode)
+Describe the purpose of a *gate drive circuit* for an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is a combinational circuit? Give an example.,Logic Gates,AND Gate
+How does a voltage regulator maintain a constant output voltage?.,Electronic Components and Applications,555 Timer
+How is a power MOSFET used in a DC-DC converter?,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What is the role of a triac in a heater control circuit?,Power Electronics,TRIAC (Triode for Alternating Current) Application
+What is RC-Coupling in Transistor?.,Amplifiers and Oscillators,Amplifier
+How does a ring counter operate and where is it used?,Digital Electronics,Digital Electronics
+Explain *thermal triggering* in the context of SCRs?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What are the applications of DSP?,Miscellaneous Topics,Shockley’s Equation
+What is the significance of the Moore and Mealy state machines in digital design?,Digital Electronics,Digital Electronics
+What is Conduction Band?.,Electronic Components and Applications,LED (Light Emitting Diode)
+How does a phototransistor differ from a regular transistor?.,Electronic Components and Applications,Photodiodes
+What is a ROM and how does it differ from a RAM?,Electronic Components and Applications,ROM and RAM
+What are the hybrid parameters for Transistor?.,Transistors,Load Line Shift for Transistor
+Explain how Kirchhoff's Voltage Law KVL and Kirchhoff's Current Law KCL can be applied to complex circuit analysis?.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+Explain the working principle of a bridge rectifier voltmeter  in AC voltage measurement.,Rectification and Diode Circuits,Bridge Rectifier
+Describe the operation of an IGBT in a series resonant inverter.,Power Electronics,IGBT as Inverter
+Explain the operation of a 4-bit binary counter.,Digital Electronics,Digital Electronics
+What is Transition capacitance?.,Transistors,Load Line Shift for Transistor
+What are the characteristics of diode?.,Rectification and Diode Circuits,Diode
+What is breakdown region?.,Transistors,BJT (Bipolar Junction Transistor)
+How does the gate terminal control the operation of an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+Describe the operation of an SCR in a cycloconverter.,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is Amplifier Distortion?.,Amplifiers and Oscillators,Amplifier
+What is the function of a triac in an AC power control circuit?.,Power Electronics,TRIAC (Triode for Alternating Current) Application
+What is Wien Bridge Oscillator?.,Amplifiers and Oscillators,Oscillator
+What is *dv/dt triggering* and how does it affect SCR operation?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What are the safety considerations for handling and operating SCRs?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What are the advantages of using a crystal oscillator in timing circuits?.,Electronic Components and Applications,555 Timer
+Describe Silicon-controlled switches SCSs?.,Power Electronics,SCS (Silicon Controlled Switch)
+What are the three main terminals of an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+Describe Silicon-controlled rectifiers SCRs?.,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is Frequency Synthesis?.,Miscellaneous Topics,Shockley’s Equation
+What is MOSFET?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What is Astable Operation?.,Amplifiers and Oscillators,Astable Multivibrator
+What is Extrisnic Materials?.,Miscellaneous Topics,Shockley’s Equation
+What is the purpose of a dual-mode counter?,Digital Electronics,Miscellaneous Topics
+Explain the role of an SCR in a DC motor control circuit?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is Strobe Input?.,Digital Electronics,TTL (Transistor-Transistor Logic)
+Explain the difference between analog and digital multimeters in terms of their construction and use.,Electronic Instruments,Multimeter
+How is a triac used for controlling AC power?,Power Electronics,TRIAC (Triode for Alternating Current) Application
+What is the role of a comparator in an ADC?,Amplifiers and Oscillators,Comparator
+What is the role of an SCR in a static switch?,Power Electronics,SCR as Inverter
+Discuss the environmental impacts of IC manufacturing.,Electronic Components and Applications,Integrated Circuit (IC) Manufacturing
+Explain the concept of race conditions in digital circuits and how they can be avoided.,Digital Electronics,RTL (Resistor-Transistor Logic)
+What are the key characteristics of a supercapacitor compared to a traditional capacitor?.,Electronic Components and Applications,Capacitor
+What is a full adder and how does it differ from a half adder?,Adders,Full Adder
+Describe Schottky-Barrier Diode SBD?.,Rectification and Diode Circuits,Diode
+What are the small signal parameter for hybrid pie model?.,Transistors,BJT (Bipolar Junction Transistor)
+Explain the term 'Boolean algebra' in the context of digital electronics.,Logic Gates,AND Gate
+Describe High-Isolation AND Gate?.,Logic Gates,AND Gate
+How does a bridge rectifier convert AC to DC?.,Rectification and Diode Circuits,Bridge Rectifier
+Explain Current Flow in Semiconductors?.,Rectification and Diode Circuits,Diode
+What are the limitations of power MOSFETs in high-frequency applications?,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+Where is the Saturation point Of Transistor?.,Transistors,Load Line Shift for Transistor
+What is a NOT gate and what is its primary function?,Logic Gates,NOT Gate
+Describe VMOS and UMOS power MOSFET?.,Transistors,UMOS (U-shaped Metal-Oxide-Semiconductor)
+What is a binary number system and how does it differ from the decimal system?,Logic Gates,AND Gate
+Define the concept of a Karnaugh map and its use in simplifying Boolean expressions.,Logic Gates,Karnaugh Map
+Explain the role of electronic design automation (EDA) tools in IC design.,Electronic Instruments,Electronic Instruments
+Describe basic biasing arrangement for the unijunction transistor. ?.,Transistors,UJT (Unijunction Transistor)
+What is zener breakdown potential?.,Electronic Components and Applications,LED (Light Emitting Diode)
+Define the radiant flux?.,Electronic Components and Applications,Photodiodes
+What is bridge rectification in diode?.,Rectification and Diode Circuits,Bridge Rectifier
+Explain the concept of *gate charge* in IGBT devices.,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+What is LDR?.,Electronic Components and Applications,Photoconductive Cells
+How is an IGBT used in inverter circuits?,Power Electronics,IGBT as Inverter
+What is RTL?.,Digital Electronics,RTL (Resistor-Transistor Logic)
+Explain the working principle of a basic voltage divider circuit.,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+Explain the process of photolithography in IC fabrication.,Electronic Components and Applications,Photodiodes
+Describe & Classify Filters for Op-Amp?.,Amplifiers and Oscillators,Amplifier
+What is Second Harmonic Distortion?.,Amplifiers and Oscillators,Amplifier
+Explain TUNNEL DIODES?.,Electronic Components and Applications,Diode
+Explain the significance of the propagation delay in digital circuits.,Logic Gates,AND Gate
+What is center tapped Transformer?.,Rectification and Diode Circuits,Center Tapped Transformer
+What is beta Independent Design ?.,Transistors,Load Line Shift for Transistor
+What are the turn on voltages for different diodes?.,Rectification and Diode Circuits,Diode
+Describe Push Pull Amplifier?.,Amplifiers and Oscillators,Amplifier
+What happens when an SCR is in the **forward conducting** state?,Power Electronics,Forward Conducting Mode of SCR
+What is midband gain?.,Amplifiers and Oscillators,Amplifier
+Explain the operation of an SCR in a single-phase inverter circuit.,Power Electronics,SCR as Inverter
+Discuss the role of passivation layers in IC fabrication.,Electronic Components and Applications,Capacitor
+How does a carry-save adder (CSA) improve the speed of binary addition?,Adders,Implementation of Full Adder Using Half Adder
+What is Covalent Bond?.,Miscellaneous Topics,Shockley’s Equation
+Describe the small-signal model of a CE amplifier and its use in small-signal analysis?.,Amplifiers and Oscillators,Amplifier
+How does a triac provide bidirectional control of AC current?,Power Electronics,TRIAC (Triode for Alternating Current) Application
+What is an integrated circuit (IC)?,Electronic Components and Applications,LED (Light Emitting Diode)
+Describe the characteristics of FET?.,Transistors,FET (Field-Effect Transistor)
+Describe Effect of Rnot in hybrid r pie?.,Transistors,Load Line Shift for Transistor
+"What are the primary functions of a multimeter, and how is it used in electronic measurements?",Electronic Instruments,Basic Electronic Component 
+"How do you derive the time constant for an RC circuit, and what does it signify in terms of circuit behavior?.",Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+what are the rules for binary addition?,Adders,Full Adder
+How does a phase-locked loop (PLL) work in frequency synthesis?,Miscellaneous Topics,Shockley’s Equation
+Define the term 'voltmeter' and explain its basic working principle.,Electronic Instruments,Multimeter
+Describe the operation and applications of a Hall effect sensor. ?.,Electronic Components and Applications,Photodiodes
+"How does a capacitor behave at different frequencies, and what implications does this have for AC and DC circuit analysis?.",Electronic Components and Applications,Capacitor
+Describe the process of *pulse triggering* for an SCR,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is Ladder Network Conversion?.,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+What is p-type material?.,Transistors,PMOS (P-type Metal-Oxide-Semiconductor)
+What is a binary-coded decimal (BCD) and where is it used?,Digital Electronics,RTL (Resistor-Transistor Logic)
+What is Thevenin's voltage & resistance?.,Miscellaneous Topics,Thevenin Voltage and Norton Current
+What is the purpose of a buffer IC in digital electronics?,Amplifiers and Oscillators,"Voltage Buffer, Subtraction (Using OP AMP)"
+Describe Capacitor filter operation?.,Electronic Components and Applications,Capacitor
+"How can you use a diode bridge for AC to DC conversion, and what are the advantages of this configuration?.",Rectification and Diode Circuits,Bridge Rectifier
+Discuss the importance of layout design rules in IC fabrication.,Electronic Components and Applications,Electronic Instruments
+What is DIP Unit?.,Electronic Components and Applications,LED (Light Emitting Diode)
+How many DC biasing are available in Electronics?.,Rectification and Diode Circuits,"Biasing (DC, AC)"
+Describe The Constant-Voltage-Drop Model?.,Transistors,Load Line Shift for Transistor
+What is CMOS technology and why is it widely used in ICs?,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+Describe UJT triggering of an SCR. ?.,Transistors,UJT (Unijunction Transistor)
+What is the significance of *reverse recovery time* in IGBT applications?,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+What are the key considerations in the thermal management of ICs?,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+What is a binary counter and how is it used in digital circuits?,Digital Electronics,Digital Electronics
+Describe Quad comparator IC?.,Amplifiers and Oscillators,Comparator
+How is an IGBT used in a high-frequency induction heating system?,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+What is BJT stabalization ?.,Transistors,BJT (Bipolar Junction Transistor)
+"How does a CRT create an image on the screen, and what are the key factors affecting the image quality?",Electronic Instruments,CRT (Cathode Ray Tube)
+"What are the primary uses of the BCD number system in digital devices, and how does it simplify calculations?",Digital Electronics,RTL (Resistor-Transistor Logic)
+What is PHOTODIODES?.,Electronic Components and Applications,Photodiodes
+Compare and contrast NMOS and PMOS transistors.,Transistors,NMOS (N-type Metal-Oxide-Semiconductor) & PMOS (P-type Metal-Oxide-Semiconductor) Transistors
+What is a JK flip-flop and how does it operate?,Digital Electronics,JK flip-flop
+What is the role of a comparator in digital systems?,Amplifiers and Oscillators,Comparator
+Describe the amplification region for diode?.,Rectification and Diode Circuits,Diode
+What is the purpose of a binary ripple counter in digital electronics?,Digital Electronics,Digital Electronics
+Describe Terminal Characteristics of Junction Diodes?.,Rectification and Diode Circuits,Diode
+What is Transistor Phase-Shift Oscillator?.,Amplifiers and Oscillators,Oscillator
+What is PHOTOCONDUCTIVE CELLS?.,Electronic Components and Applications,Photoconductive Cells
+What is DIAC?.,Power Electronics,DIAC (Diode for Alternating Current)
+How does the Early effect influence the behavior of BJTs and how can it be mitigated in circuit design?.,Transistors,BJT (Bipolar Junction Transistor)
+what is unity gain amplifier?.,Amplifiers and Oscillators,Amplifier
+What are the main applications of analog integrated circuits?,Electronic Components and Applications,Capacitor
+What is the purpose of a choke in an electronic circuit?.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+What is a shift register and how can it be used to implement serial-to-parallel conversion?,Digital Electronics,Shift Register
+What are ideal diodes?.,Rectification and Diode Circuits,Diode
+How does a triac control the brightness of a light bulb?,Power Electronics,TRIAC (Triode for Alternating Current) Application
+What is a Johnson counter and how does it differ from a regular counter?,Digital Electronics,RTL (Resistor-Transistor Logic)
+What are the common methods used for IC packaging?,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+What is the primary function of a capacitor in an electronic circuit?.,Electronic Components and Applications,Capacitor
+What is Voltage Subtraction?.,Amplifiers and Oscillators,"Voltage Buffer, Subtraction (Using OP AMP)"
+What is Voltage-series feedback?.,Amplifiers and Oscillators,OP AMP (Operational Amplifier)
+Explain the difference between analog and digital signals.,Electronic Components and Applications,LED (Light Emitting Diode)
+Describe Unity Gain Amlifier?.,Amplifiers and Oscillators,OP AMP (Operational Amplifier)
+How does a flip-flop circuit store binary information?.,Digital Electronics,Flip-Flop Circuit
+What is transformer-coupled amplifier?.,Amplifiers and Oscillators,Amplifier
+What is slew rate?.,Amplifiers and Oscillators,OP AMP (Operational Amplifier)
+How does a Hall effect sensor detect magnetic fields?.,Electronic Components and Applications,Photodiodes
+Describe the conversion process from a decimal number to a binary number and convert the number 75 as an example.,Digital Electronics,Binary Number Conversion
+What is TRIAC?.,Power Electronics,TRIAC (Triode for Alternating Current) Application
+Describe infrared-emitting diode?.,Electronic Components and Applications,LED (Light Emitting Diode)
+Describe analog-to-digital conversion?.,Electronic Components and Applications,ADC (Analog-to-Digital Converter)
+why are IC important in modern electronics?,Electronic Components and Applications,Integrated Circuits (ICs)
+What is the purpose of a decoder in digital circuits?,Digital Electronics,Digital Electronics
+Describe Zero-crossing detector using IC?.,Electronic Components and Applications,555 Timer
+What is multisim?.,Electronic Instruments,Electronic Instruments
+What is Nonlinear Distortion?.,Amplifiers and Oscillators,Amplifier
+Describe passive infrarred motion detection?.,Electronic Components and Applications,Photoconductive Cells
+What is Reverse Bias ?.,Rectification and Diode Circuits,Diode
+What are the challenges in scaling down IC components to nanometer sizes?,Electronic Components and Applications,Capacitor
+Explain the concept of electromagnetic interference EMI and its effects on electronic devices.,Miscellaneous Topics,Shockley’s Equation
+Explain the concept of oversampling in ADCs.,Electronic Components and Applications,ADC (Analog-to-Digital Converter)
+What is n-type material?.,Electronic Components and Applications,LED (Light Emitting Diode)
+"How does Ohm's Law relate voltage, current, and resistance?.",Miscellaneous Topics,Shockley’s Equation
+Explain the concept of a logic gate. What are the basic types of logic gates?,Logic Gates,AND Gate
+What are the limits of operations in Transistor?.,Transistors,Load Line Shift for Transistor
+What is the difference between bipolar and unipolar ICs?,Transistors,BJT (Bipolar Junction Transistor)
+Describe Harmonic Components??.,Power Electronics,SCR (Silicon Controlled Rectifier)
+How do you convert a binary number to its hexadecimal equivalent?,Digital Electronics,RTL (Resistor-Transistor Logic)
+How does a current transformer measure electrical current?.,Electronic Instruments,Electronic Instruments
+What is the role of a digital phase detector in a phase-locked loop (PLL)?,Electronic Components and Applications,555 Timer
+How does a digital-to-analog converter (DAC) use a resistor network?,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+What are the primary functions of an operational amplifier (op-amp) in ICs?,Amplifiers and Oscillators,OP AMP (Operational Amplifier)
+Describe the role of doping in semiconductor manufacturing for ICs.,Transistors,BJT (Bipolar Junction Transistor)
+What are Gate turn-off switches GTO?.,Power Electronics,GTO (Gate Turn-Off Thyristor)
+What is Human Auditory Response ?.,Miscellaneous Topics,Shockley’s Equation
+Describe NMOS & PMOS?.,Transistors,NMOS (N-type Metal-Oxide-Semiconductor) and PMOS (P-type Metal-Oxide-Semiconductor)
+Describe the function of a parallel-in parallel-out shift register.,Digital Electronics,Digital Electronics
+Describe the operation of a basic LC inductor-capacitor circuit.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+What is IC Phase-Shift Oscillator?.,Amplifiers and Oscillators,Oscillator
+What is Voltage Multiplier Circuit?.,Electronic Components and Applications,Capacitor
+Discuss the importance of temperature stability in ICs.,Electronic Components and Applications,Capacitor
+What is the purpose of using a bootstrap capacitor in a MOSFET driver circuit?.,Power Electronics,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What are the limitations of bridge rectifier voltmeters when measuring low-frequency signals?,Rectification and Diode Circuits,Bridge Rectifier
+What is the function of a rectifier in power supply circuits?.,Rectification and Diode Circuits,Rectification
+What are the typical failure modes of an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is the purpose of a *snubber circuit* for an IGBT?,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+Explain the difference between an NPN and a PNP transistor.,Transistors,BJT (Bipolar Junction Transistor)
+What is count interval for a dual-slope converter?.,Electronic Instruments,Electronic Instruments
+What are the main types of memory ICs and their uses?,Electronic Components and Applications,Capacitor
+Explain Operation of LIGHT-ACTIVATED SCR?.,Power Electronics,LSCR (Light-Triggered Silicon Controlled Rectifier)
+How is an SCR protected against overcurrent conditions?,Power Electronics,SCR (Silicon Controlled Rectifier)
+Explain the working principle of a NAND gate. Provide its truth table.,Logic Gates,NAND Gate
+How does a power MOSFET function in an inverter circuit?,Power Electronics,IGBT as Inverter
+"What is the function of the vertical deflection plates in a CRT, and how do they affect the electron beam?",Electronic Instruments,Cathode Ray Tube
+Explain the principle of *phase-shifted modulation* in IGBT inverters.,Power Electronics,IGBT as Inverter
+What is the purpose of a timing diagram in the design of digital circuits?,Digital Electronics,Digital Electronics
+How does a binary ripple counter work?,Digital Electronics,Digital Electronics
+What is AC biasing?.,Rectification and Diode Circuits,"Biasing (DC, AC)"
+Explain the significance of power dissipation in IC design.,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+What are the typical methods for turning off an SCR?,Power Electronics,GTO (Gate Turn-Off Thyristor)
+Describe the role of an SCR in a three-phase rectifier?,Power Electronics,SCR in Rectifiers
+What are the advantages of using SCRs in power electronics?,Power Electronics,SCR (Silicon Controlled Rectifier)
+How does a NOR gate differ from an OR gate? Provide the truth table for a NOR gate.,Logic Gates,NOR Gate
+Describe the operation of a Schmitt trigger IC.,Electronic Components and Applications,555 Timer
+How do you use a Karnaugh map to simplify a Boolean function?,Logic Gates,AND Gate
+Describe Series-Resonant Circuits?.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+Describe application of an LASCR is in the AND and OR circuits?.,Power Electronics,LSCR (Light-Triggered Silicon Controlled Rectifier)
+Explain the working of a decade counter.,Digital Electronics,Counter
+"How does an inductor store energy, and in what form?.",Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+How does an IGBT contribute to the operation of a flyback converter?,Power Electronics,IGBT as Inverter
+What is the difference between a triac and a diac?,Power Electronics,TRIAC (Triode for Alternating Current) Application
+How does a clock divider circuit work in digital electronics?,Digital Electronics,Digital Electronics
+Describe RIPPLE VOLTAGE OF CAPACITOR FILTER?.,Rectification and Diode Circuits,Ripples
+Why Current Flow Is Off is PN Junction Reverse Bias?.,Rectification and Diode Circuits,Diode
+What are active electronic components?.,Electronic Components and Applications,LED (Light Emitting Diode)
+Describe the working of a binary encoder.,Digital Electronics,Digital Electronics
+What is Hartley Oscillator?.,Amplifiers and Oscillators,Oscillator
+Describe the charge and discharge process of a capacitor in an RC circuit. How can this be modeled mathematically?.,Electronic Components and Applications,"RC Circuit (Resistor, Capacitor Circuit)"
+Explain the concept of *thermal runaway* in SCR devices.,Power Electronics,SCR (Silicon Controlled Rectifier)
+How does a light-emitting diode LED differ from a standard diode?.,Electronic Components and Applications,LED (Light Emitting Diode)
+"How does temperature affect the resistance of conductors and semiconductors, and what are the implications for electronic circuit design?.",Electronic Components and Applications,Miscellaneous Topics
+How does a counter work in a digital clock?,Digital Electronics,Digital Electronics
+Describe Multiple stage gain?.,Amplifiers and Oscillators,Amplifier
+"Explain the demerits of using a VTVM, especially in comparison with digital voltmeters.",Electronic Instruments,VTVM (Vacuum Tube Voltmeter)
+What is thermal noise ?.,Electronic Components and Applications,Photodiodes
+What is Bandpass Active Filter?.,Amplifiers and Oscillators,Amplifier
+Explain the architecture of a digital signal processor (DSP).,Digital Electronics,Digital Signal Processor (DSP)
+How do you implement a 4-bit priority encoder?,Digital Electronics,RTL (Resistor-Transistor Logic)
+What are the functions of the three main terminals of an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+Describe how an FPGA can be programmed to implement a digital circuit.,Digital Electronics,Electronic Components and Applications
+What are the different types of semiconductor materials used in electronics?.,Electronic Components and Applications,LED (Light Emitting Diode)
+What is the purpose of a bypass capacitor in power supply circuits?.,Electronic Components and Applications,Capacitor
+What is Thermal-to-electrical analogy?.,Miscellaneous Topics,Shockley’s Equation
+What is the role of an IGBT in a static VAR compensator?,Power Electronics,IGBT as Inverter
+How does a binary counter differ from a BCD counter?,Digital Electronics,TTL (Transistor-Transistor Logic)
+What is Current-shunt feedback?.,Amplifiers and Oscillators,Amplifier
+Describe the role of a transistor in an amplifier circuit.,Amplifiers and Oscillators,Amplifier
+Explain the concept of an RLC resistor-inductor-capacitor circuit. ?.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+Explain the process of designing a 4-bit binary adder using full adders.,Adders,Implementation of Full Adder Using Half Adder
+What is JFET?.,Transistors,JFET (Junction Field-Effect Transistor)
+What is an XOR gate? Explain with a truth table.,Logic Gates,XOR Gate
+Explain the concept of *duty cycle* in IGBT-based switching circuits.,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+Discuss the significance of the hexadecimal number system in computer science and digital electronics.,Digital Electronics,Electronic Components and Applications
+"How does a 3-to-8 line decoder work, and where is it used?",Logic Gates,Decoder
+Describe the basic structure of a power MOSFET.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What is Complementary-Symmetry Circuits?.,Electronic Components and Applications,Electronic Components and Applications
+Describe the principle of *zero-crossing* switching with SCRs.,Power Electronics,SCR (Silicon Controlled Rectifier)
+Explain the use of an SCR in an inverter circuit?,Power Electronics,SCR as Inverter
+Describe Operation of a timer circuit?.,Electronic Components and Applications,555 Timer
+Compare and contrast the functionality of a voltmeter and an ammeter.,Electronic Instruments,Multimeter
+What is the conducting period for diode?.,Rectification and Diode Circuits,Diode
+What is the significance of the least significant bit (LSB) and most significant bit (MSB)?,Digital Electronics,Digital Electronics
+Describe the role of a microprocessor in an IC.,Miscellaneous Topics,Thevenin Voltage and Norton Current
+Describe how an SCR can be used in a battery charger?,Power Electronics,SCR as Inverter
+"Explain the energy band theory and how it differentiates between conductors, insulators, and semiconductors.",Electronic Components and Applications,Semiconductors
+"Magnitude of the gate current is a great factor for silicon-controlled rectifier SCR,explain?.",Power Electronics,SCR (Silicon Controlled Rectifier)
+Explain the difference between a flash ADC and a successive approximation ADC.,Rectification and Diode Circuits,Flash ADC vs. Successive Approximation ADC
+What are Light-activated SCRs LSCR?.,Power Electronics,LSCR (Light-Triggered Silicon Controlled Rectifier)
+How does a dual-slope ADC achieve high accuracy in digital conversion?,Electronic Instruments,CRT (Cathode Ray Tube)
+What is miller effect capacitance?.,Miscellaneous Topics,Miller Effect Capacitance
+Describe the method to convert a decimal number to an octal number. Provide an example with the number 100.,Miscellaneous Topics,Conversion of Decimal to Octal
+Describe Operation of phase-locked loops?.,Electronic Components and Applications,555 Timer
+What is Constant Gain Multilfier?.,Amplifiers and Oscillators,Amplifier
+Explain Latching Relay of LASCR?.,Power Electronics,LSCR (Light-Triggered Silicon Controlled Rectifier)
+What is a charge-coupled device (CCD) and where is it used?,Electronic Components and Applications,Photodiodes
+What is the difference between a power MOSFET and a regular MOSFET?,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What is Ripple Voltage VrRMS?.,Rectification and Diode Circuits,Ripples
+Explain the concept of noise margin in digital ICs.,Digital Electronics,Digital Electronics
+How do you design a BJT switch for high-speed applications?.,Transistors,BJT (Bipolar Junction Transistor)
+What are the different types of noise in electronic circuits and how can they be mitigated?.,Electronic Components and Applications,Photodiodes
+Explain the concept of **threshold voltage** in a power MOSFET.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+Describe the process of *forced commutation* in SCRs?,Power Electronics,SCR (Silicon Controlled Rectifier)
+Explain the function of an analog-to-digital converter (ADC) in an IC.,Electronic Components and Applications,ADC (Analog to Digital Converter)
+What is the significance of the *reverse recovery time* in an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+Explain operation of Battery-Charging Regulator?.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+Describe High frequency response for BJT amplifier?.,Amplifiers and Oscillators,Amplifier
+What is a synchronous counter and how is it different from an asynchronous counter?,Digital Electronics,Synchronous Counter
+Describe the operation of a 4-to-16 line decoder.,Digital Electronics,Digital Electronics
+Explain the operation of a diac in triggering a triac.,Power Electronics,DIAC (Diode for Alternating Current)
+Define Clipper & Clamper Circuit?.,Rectification and Diode Circuits,Clipper and Clamper Circuits
+Explain the process of converting a binary number to a BCD number. Convert the binary number 1011 to its BCD equivalent.,Digital Electronics,RTL (Resistor-Transistor Logic)
+Explain how a shift register can be used to generate a pseudo-random binary sequence.,Digital Electronics,Shift Register
+What is Transistor Hartley Oscillator?.,Amplifiers and Oscillators,Oscillator
+What is phase-shift oscillator. ?.,Amplifiers and Oscillators,Oscillator
+How does the choice between n-channel and p-channel MOSFETs impact the efficiency and design of power electronic circuits?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+What are the key differences between a VTVM (Vacuum Tube Voltmeter) and a traditional analog voltmeter?,Electronic Instruments,VTVM (Vacuum Tube Voltmeter)
+Describe how an arithmetic logic unit (ALU) functions in a digital circuit.,Digital Electronics,ALU (Arithmetic Logic Unit)
+How do integrated circuits support advancements in telecommunications?,Electronic Components and Applications,555 Timer
+What is SERIES-FED CLASS A AMPLIFIER?.,Amplifiers and Oscillators,Amplifier
+Describe basic construction of a silicon p  n junction solar cell?.,Electronic Components and Applications,Photodiodes
+How does an IGBT function in a pulse-width modulation (PWM) inverter?,Power Electronics,IGBT as Inverter
+What is high pass filter?.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+Describe the basic construction of an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What are the advantages of using a switch-mode power supply SMPS?.,Power Electronics,SCR (Silicon Controlled Rectifier)
+How is an IGBT used in a *chopper circuit*?,Power Electronics,IGBT as Inverter
+Define the concept of a finite state machine (FSM).,Digital Electronics,Finite State Machine (FSM)
+How is an SCR used in overvoltage protection circuits?,Power Electronics,SCR (Silicon Controlled Rectifier)
+Describe Frequency Spectrum of Signals?.,Miscellaneous Topics,Shockley’s Equation
+Describe Power Calculation Of Amplifiers?.,Amplifiers and Oscillators,Amplifier
+Why Feedback circuit used as an oscillator. ?.,Amplifiers and Oscillators,Oscillator
+Describe depletion type MOSFET?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+Explain the concept of *thermal impedance* in IGBT devices.,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+Define voltage regulation in terms of diode?.,Rectification and Diode Circuits,Diode
+What is threshold voltage?.,Transistors,MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor)
+Explain the function of a phase-locked loop (PLL) in digital communication.,Electronic Components and Applications,555 Timer
+Explain the concept of *natural commutation* in SCRs?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is Forward Bias ?.,Rectification and Diode Circuits,Diode
+What is inverting & non inverting amplifier?.,Amplifiers and Oscillators,Amplifier
+Describe the function of the time base control in a CRO and its importance in waveform analysis.,Electronic Instruments,Cathode Ray Oscilloscope
+Describe the function of an AND gate and provide its truth table.,Logic Gates,AND Gate
+Why is a BJT considered a current-controlled device?.,Transistors,BJT (Bipolar Junction Transistor)
+Explain Varactor Varicap Diodes?.,Electronic Components and Applications,Diode
+How do you calculate the power dissipation in a BJT?.,Transistors,BJT (Bipolar Junction Transistor)
+Explain OPTO-ISOLATORS?.,Electronic Components and Applications,LED (Light Emitting Diode)
+Describe the use of a watchdog timer in digital systems.,Electronic Components and Applications,555 Timer
+How does a thermistor differ from a regular resistor?.,Electronic Components and Applications,Resistor
+Explain the working principle of an analog-to-digital converter (ADC).,Electronic Components and Applications,ADC (Analog-to-Digital Converter)
+Describe SCHOTTKY BARRIER HOT-CARRIER DIODES?.,Electronic Components and Applications,Diode
+Describe Capacitive Effects in the pn Junction?.,Electronic Components and Applications,Capacitor
+Explain the concept of *zero-crossing* in triac control.,Power Electronics,TRIAC (Triode for Alternating Current) Application
+Describe Adjustable-Voltage Regulators?.,Electronic Components and Applications,Voltage Regulator
+How do you calculate the capacitance of a parallel plate capacitor?.,Electronic Components and Applications,Capacitor
+Describe the process of designing a 4-bit binary multiplier using logic gates.,Logic Gates,AND Gate
+Explain the concept of *phase control* using an SCR?,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is Light Emitting diode?.,Electronic Components and Applications,LED (Light Emitting Diode)
+What is Transistor Colpitts Oscillator?.,Amplifiers and Oscillators,Oscillator
+What is the purpose of a watchdog timer IC in embedded systems?,Electronic Components and Applications,555 Timer
+List the primary merits of using a CRO for electronic measurements and testing.,Electronic Instruments,Cathode Ray Oscilloscope
+Describe the function of a programmable logic device (PLD).,Digital Electronics,Electronic Components and Applications
+What are the offset parameters for OP-AMP?.,Amplifiers and Oscillators,OP AMP (Operational Amplifier)
+What is low pass Filter?.,Electronic Components and Applications,"RLC Circuit (Resistor, Inductor, Capacitor Circuit)"
+Describe Variable-Resistance Phase Control?.,Power Electronics,SCR (Silicon Controlled Rectifier)
+What is ripple?.,Rectification and Diode Circuits,Ripples
+What are majority Carriers?.,Transistors,BJT (Bipolar Junction Transistor)
+Describe the purpose of a voltage regulator IC.,Electronic Components and Applications,Voltage Regulator IC
+How does an IGBT function in a unified power flow controller?,Power Electronics,IGBT as Inverter
+What is 3 channel Audio mixer?.,Amplifiers and Oscillators,Amplifier
+How does an IGBT function in a high-voltage direct current (HVDC) system?,Power Electronics,IGBT as Inverter
+Describe Colpitts Oscillator?.,Amplifiers and Oscillators,Oscillator
+What is diffusion capacitance?.,Transistors,BJT (Bipolar Junction Transistor)
+What is the function of a look-ahead carry adder?,Adders,Implementation of Full Adder Using Half Adder
+What is UNIJUNCTION OSCILLATOR?.,Transistors,UJT (Unijunction Transistor)
+What materials are typically used as substrates in ICs and why?,Electronic Components and Applications,ICs (Integrated Circuits)
+How does an SCR function in a full-wave rectifier circuit?,Power Electronics,SCR in Rectifiers
+What is IGBT?,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+Describe the role of a *freewheeling diode* in IGBT circuits.,Power Electronics,IGBT (Insulated Gate Bipolar Transistor)
+Describe the advantages of using a VTVM for measuring high-frequency signals compared to other voltmeters.,Electronic Instruments,VTVM (Vacuum Tube Voltmeter)
+Describe operation of Oscillator ?.,Amplifiers and Oscillators,Oscillator
+How is an IGBT used in a resonant converter?,Power Electronics,IGBT as Inverter

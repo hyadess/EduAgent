@@ -1,0 +1,600 @@
+questions
+Describe the concept of *thermal runaway* in IGBT devices.
+What is voltage-controlled oscillator?.
+How does a piezoelectric sensor generate an electrical signal?.
+Describe the gate drive requirements for an IGBT.
+What is a flip-flop and how is it used in digital circuits?
+Discuss the merits of using a bridge rectifier in voltmeter circuits for accurate AC voltage measurement.
+What is the significance of the **holding current** in an SCR?
+What is Tuned Oscillator Circuit?.
+Explain the principle of *soft switching* in IGBT applications.
+Describe the regions for Transistor?.
+Describe the basic working principle of a light dimmer using a triac.
+What is the significance of Moore's Law in the context of integrated circuits?
+What is the significance of *switching losses* in IGBT operation?
+What are the advantages of using a CMOS technology over NMOS or PMOS alone?.
+Describe three terminals of MOSFET?.
+What are the applications of programmable logic arrays (PLAs)?
+Describe the applications of light-activated SCRs?
+How do you design a 2-to-4 line decoder using basic logic gates?
+Explain the difference between a D flip-flop and a T flip-flop.
+What are the cooling methods used for IGBT modules?
+Explain the working principle of an SCR?
+How does scaling down the dimensions of MOSFETs affect their performance?.
+How does a 7805 voltage regulator IC maintain a constant 5V output?.
+Why is the MOSFET considered a voltage-controlled device?.
+What are the Turn on condition for MOSFET?.
+How does a small base current control a much larger collector current in a BJT?.
+Describe the operation of an IGBT.
+How do ICs contribute to the miniaturization of electronic devices?
+What is the significance of the power rating of a resistor?.
+What is Frequency Demodulation?.
+How does a MOSFET act as a switch in a digital logic circuit?.
+Define a digital signal. How is it different from an analog signal?
+What is the role of an IGBT in a power factor correction (PFC) circuit?
+How does a sigma-delta ADC work and where is it used?
+What is a Field-Programmable Gate Array (FPGA)?
+Describe constant-gain circuit?.
+Explain the function of a phase-locked loop (PLL) in an IC.
+What is a signal generator and what is it used for?.
+Describe five-stage ladder network?.
+Explain the role of the electron gun in a CRT and how it contributes to the display of waveforms.
+What is the ohmic region for JFET?.
+Explain the working principle of a light-activated SCR?
+Describe RIPPLE FACTOR OF RECTIFIER?.
+How do you calculate the total capacitance in a parallel circuit?.
+What is the significance of the V-I characteristics of an SCR?
+Describe the function of an SR flip-flop with a truth table.
+Describe Fixed-Negative-Voltage Regulators?.
+What are the key parameters to consider when selecting an IGBT?
+How is a power MOSFET used in switching applications?
+Describe programmable unijunction transistor?.
+Explain the significance of a setup and hold time in digital circuits.
+What is a digital clock and how does it use counters and flip-flops?
+Describe the principle of operation of a *current source inverter* using an IGBT
+Describe the operation of a basic RC resistor-capacitor circuit. ?.
+Explain the impact of hot carrier injection on MOSFET reliability. ?.
+What is Nortons Current?.
+How does a monostable multivibrator function?
+What is the significance of a truth table in digital electronics?
+Explain the significance of isolation techniques in IC design.
+What are minterms and maxterms in Boolean algebra?
+What is the role of an IGBT in a three-phase inverter?
+Explain the concept of a multiplexer and its use in digital electronics.
+What are the use of Shocley's equation?.
+What is the purpose of a relay module in electronic circuits?.
+What is the difference between a series and a parallel circuit?.
+What is the role of a power MOSFET in a *half-bridge inverter*?
+What is the function of a Zener diode in a voltage regulation circuit?.
+What are the main factors that contribute to MOSFET gate leakage current?.
+How does an IGBT contribute to the operation of a cycloconverter?
+How a Transistor constructed?.
+What is Valence Band?.
+Define the term thyristor and explain how it relates to an SCR?
+What is DTL?.
+What is pet option coverage?.
+What is Thermal Energy ?.
+What are the advantages of using a relay module over directly switching high voltage loads with a microcontroller?.
+What is Zener diode?.
+Describe the process of designing a simple digital lock using flip-flops.
+Explain the working principle of a basic operational amplifier op-amp?.
+What is dual slope method ?.
+Compare the advantages and disadvantages of analog and digital multimeters in terms of accuracy and usability.
+What is peak output voltage output swing?.
+What are the primary factors to consider when selecting a MOSFET for high-frequency switching applications?.
+What is FET?.
+What is the difference between an IGBT and a power MOSFET?
+How does the *temperature coefficient* affect the performance of an SCR?
+How do ICs improve the reliability of electronic systems?
+Explain the concept of a magnitude comparator and its application.
+Why BJT is called Bi Polar?.
+Describe the operation of an astable multivibrator.
+Describe how a finite state machine (FSM) can be used to model a traffic light system.
+How does a frequency counter measure the frequency of a signal?.
+What are the limitations of using a triac in high-power applications?
+What is Semiconductor?.
+Explain the concept of a binary-coded decimal (BCD).
+Describe the process of calibrating a multimeter and the importance of regular calibration.
+Describe the use of a sample-and-hold circuit in ADCs.
+How does the *latching current* differ from the *holding current* in an SCR?
+What Is Chopping waveform?.
+Describe the operation of an IGBT in a single-phase inverter.
+How is an IGBT used in a bidirectional switch?
+What is a bistable multivibrator and its application?
+"What does MOSFET stand for, and how does it differ from a BJT?."
+What is bridge configuration?.
+What are the limitations of IGBTs in high-frequency applications?
+What is Astable multivibrator ?.
+Explain the importance of yield in IC manufacturing.
+What are the main advantages of using a VTVM over other types of voltmeters in laboratory settings?
+Explain how a voltmeter is connected in a circuit to measure the voltage across a component.
+What is comparator unit?.
+Explain the concept of a Gray code.
+What is XTAL?.
+How do you calculate the inductance of a coil?.
+What is the role of the base resistor in a BJT amplifier circuit?.
+Describe JFET Small Signal Model?.
+Describe Types Of Amplifier?.
+How many waves can be used for diode rectification?.
+What is a system-on-chip (SoC) and how is it different from a standard IC?
+Describe Sawtooth Generator?.
+Describe FSK Decoders?.
+Explain the concept of a mixed-signal IC.
+Explain the **reverse blocking** state of an SCR.
+what is transconductance?.
+"How does temperature affect the resistance of conductors and semiconductors, and what are the implications for electronic circuit design?."
+Define a digital-to-analog converter (DAC) and its function.
+What are the advantages of using ICs over discrete components?
+What are the characteristics of a high-frequency signal?.
+What are *De Morgan's Theorems*?
+How do you implement a BJT as an audio amplifier?.
+What is Current-series feedback?.
+How is an IGBT used in a multi-level inverter?
+How do you design a MOSFET common-source amplifier with a given gain?.
+What is a demultiplexer and how is it different from a multiplexer?
+Describe the purpose of a voltage reference IC.
+Describe Effect of Negative Feedback on Bandwidth?.
+Describe the process of converting a decimal number to binary.
+Explain the concept of *saturation voltage* in an IGBT.
+How does an IGBT function in a voltage source converter?
+What are the key differences between the decimal and hexadecimal number systems in terms of digit range and usage?
+Describe the working of a *buck converter* using a power MOSFET.
+How is *gate triggering* used to turn on an SCR?
+What is the purpose of a timing diagram in digital circuits?
+What are the common types of failure modes in ICs?
+Describe the operation of an IGBT in a snubberless inverter.
+What are the light-triggering characteristics of LASCR?.
+"Define SSI, MSI, LSI, VLSI, and ULSI."
+Describe multistage frequency effects of an amplifier?.
+What is Transformer-Coupled PushPull Circuits?.
+What are the key parameters to consider when selecting an SCR for an application?
+What is a Silicon Controlled Rectifier (SCR)?
+"How does the doping level of the emitter, base, and collector regions affect the performance of a BJT?."
+Explain the principle of an active low-pass filter and its advantages over a passive low-pass filter. ?.
+Describe phase relationship for AC biasing?.
+Describe Reverse Recover Time For Diode?.
+Explain the operation of a 555 timer IC in astable mode. ?.
+How does a digital multiplexer function in signal selection?
+What is a **snubber circuit** and why is it used with SCRs?
+Describe Digital-Analog Converters?.
+How are ICs classified based on their integration scale?
+What is the role of an IGBT in a high-power solid-state relay?
+Describe Peak Diode Current?.
+What is a digital system and how does it differ from an analog system?
+What are the typical voltage and current ratings for commercial SCRs?
+What is Quasi-Complementary PushPull Amplifier?.
+What is Q-point for DC Biasing?.
+How does an analog multiplexer work in an integrated circuit?
+Define Binary-Coded Decimal (BCD) and explain how to represent the decimal number 92 in BCD.
+What are the main components of a Cathode Ray Tube (CRT) used in a CRO?
+Describe the input and output characteristics of a CE amplifier. ?.
+What is sound modulated light source?.
+What are the key differences between a synchronous and an asynchronous counter?
+"What is the base value of the binary number system, and why is it significant in digital electronics?"
+What is the significance of the load line analysis in the context of diode and transistor circuits?.
+Describe Power Efficiency Of Amplifier?.
+How does an OR gate operate? Provide its truth table.
+What are the advantages of using a triac over an SCR in AC control?
+Application for the SCR For Emergency Lighting System?.
+Explain the operation of an SCR in a bidirectional power switch.
+What are the safety considerations for handling and operating IGBTs?
+Describe the procedure for measuring AC voltage using a digital multimeter.
+How is an IGBT protected against overvoltage conditions?
+"What is a Cathode Ray Oscilloscope (CRO), and how is it used to observe electrical waveforms?"
+What are the primary factors to consider when selecting a MOSFET for high-frequency switching applications?
+Describe the process of Nematic liquid crystal with applied bias. ?.
+What is phase-locked loop?.
+What is single ended output voltage?.
+What are the harmonic contents for square wave?.
+What is CRYSTAL OSCILLATOR?.
+What is Voltage Buffer?.
+"How does a multimeter measure resistance, and what are the common issues to look out for during this measurement?"
+Theoretically Describe Steady-state voltagecurrent characteristics of a thermistor?.
+What are passive electronic components?.
+How does a power MOSFET operate in a *boost converter* circuit?
+What is the Nyquist rate and why is it important in digital sampling?
+Describe The Operation Of Class B Amplifer?.
+What are the benefits of using a digital storage oscilloscope over a traditional CRO?
+What is Ripple Factor of Rectified Signal??.
+Describe Beta Range Theoretically For Transistor?.
+Describe Closed-Loop Gain?.
+Describe the process of wafer testing in IC production.
+Explain the function of a digital-to-analog converter (DAC) in an IC.
+What is pickup transducer?.
+What is Parallel-Resonant Circuits?.
+What is the purpose of a shift register in digital electronics?
+Explain the operation of a 4-bit ripple carry counter.
+"Explain how to convert a binary number directly to a hexadecimal number, and provide an example with the binary number 11101101."
+Describe how a digital display decoder works with a seven-segment display.
+What are the advantages and disadvantages of using the octal number system compared to the binary system?
+How do you implement a simple finite state machine (FSM) using flip-flops?
+What is fixed time interval for dual slope converter?.
+Explain the concept of alternating current AC and direct current DC.
+How do you calculate the total resistance in a series circuit?.
+What are the characteristics of a resistor with a high resistance value?.
+Explain the difference between a monolithic IC and a hybrid IC.
+Explain the operation of a parity generator and checker.
+What is the function of a clock generator IC in electronic circuits?
+What is load line shift?.
+Describe the **forward blocking state** of an SCR.
+What is an isolation amplifier and why is it used in measurement systems?.
+Describe the role of an SCR in a half-wave rectifier circuit?
+Define a XNOR gate and provide its truth table.
+Describe Effect of Negative Feedback on Gain?.
+How does a triac control the speed of an AC motor?
+What is Intrinsic Materials?.
+Define Clipper & Clamper Circuit?.
+Describe Reduction in Noise?.
+How a Zener diode works in Revere bias?.
+What is deplation region?.
+What is a *triac* and how does it differ from an SCR?
+Why we use capacitor in mobile phone charging circuit?.
+How can an SCR be used for AC power control?
+What is voltage resolution?.
+How do you design a 4-bit synchronous up-counter?
+Define LEDs & LCDs?.
+Discuss the advantages of using MOSFETs in high-frequency applications. ?.
+How is an SCR protected against overcurrent conditions?
+Describe digital-to-analog conversion?.
+Describe the process of implementing a digital filter using a finite impulse response (FIR) structure.
+What is Darlington transistor?.
+Discuss the demerits or limitations of a CRO compared to modern digital storage oscilloscopes.
+What is the function of a varistor in a surge protection circuit?.
+what is low cutt off frequency ?.
+What is Thermal Analogy of a Power Transistor?.
+What are the main functions of a digital signal processor (DSP) IC?
+How does a power amplifier differ from a signal amplifier in ICs?
+What are minority Carriers?.
+Describe the operation of a bandgap reference. ?.
+What Voltage-shunt feedback ?.
+Describe the function of a half adder in digital circuits.
+What is a *single-phase SCR inverter* and how does it operate?
+Describe the basic structure of an integrated circuit.
+Describe the purpose of a *gate drive circuit* for an SCR?
+What is a combinational circuit? Give an example.
+How does a voltage regulator maintain a constant output voltage?.
+How is a power MOSFET used in a DC-DC converter?
+What is the role of a triac in a heater control circuit?
+What is RC-Coupling in Transistor?.
+How does a ring counter operate and where is it used?
+Explain *thermal triggering* in the context of SCRs?
+What are the applications of DSP?
+What is the significance of the Moore and Mealy state machines in digital design?
+What is Conduction Band?.
+How does a phototransistor differ from a regular transistor?.
+What is a ROM and how does it differ from a RAM?
+What are the hybrid parameters for Transistor?.
+Explain how Kirchhoff's Voltage Law KVL and Kirchhoff's Current Law KCL can be applied to complex circuit analysis?.
+Explain the working principle of a bridge rectifier voltmeter  in AC voltage measurement.
+Describe the operation of an IGBT in a series resonant inverter.
+Explain the operation of a 4-bit binary counter.
+What is Transition capacitance?.
+What are the characteristics of diode?.
+What is breakdown region?.
+How does the gate terminal control the operation of an SCR?
+Describe the operation of an SCR in a cycloconverter.
+What is Amplifier Distortion?.
+What is the function of a triac in an AC power control circuit?.
+What is Wien Bridge Oscillator?.
+What is *dv/dt triggering* and how does it affect SCR operation?
+What are the safety considerations for handling and operating SCRs?
+What are the advantages of using a crystal oscillator in timing circuits?.
+Describe Silicon-controlled switches SCSs?.
+What are the three main terminals of an SCR?
+Describe Silicon-controlled rectifiers SCRs?.
+What is Frequency Synthesis?.
+What is MOSFET?.
+What is Astable Operation?.
+What is Extrisnic Materials?.
+What is the purpose of a dual-mode counter?
+Explain the role of an SCR in a DC motor control circuit?
+What is Strobe Input?.
+Explain the difference between analog and digital multimeters in terms of their construction and use.
+How is a triac used for controlling AC power?
+What is the role of a comparator in an ADC?
+What is the role of an SCR in a static switch?
+Discuss the environmental impacts of IC manufacturing.
+Explain the concept of race conditions in digital circuits and how they can be avoided.
+What are the key characteristics of a supercapacitor compared to a traditional capacitor?.
+What is a full adder and how does it differ from a half adder?
+Describe Schottky-Barrier Diode SBD?.
+What are the small signal parameter for hybrid pie model?.
+Explain the term 'Boolean algebra' in the context of digital electronics.
+Describe High-Isolation AND Gate?.
+How does a bridge rectifier convert AC to DC?.
+Explain Current Flow in Semiconductors?.
+What are the limitations of power MOSFETs in high-frequency applications?
+Where is the Saturation point Of Transistor?.
+What is a NOT gate and what is its primary function?
+Describe VMOS and UMOS power MOSFET?.
+What is a binary number system and how does it differ from the decimal system?
+Define the concept of a Karnaugh map and its use in simplifying Boolean expressions.
+Explain the role of electronic design automation (EDA) tools in IC design.
+Describe basic biasing arrangement for the unijunction transistor. ?.
+What is zener breakdown potential?.
+Define the radiant flux?.
+What is bridge rectification in diode?.
+Explain the concept of *gate charge* in IGBT devices.
+What is LDR?.
+How is an IGBT used in inverter circuits?
+What is RTL?.
+Explain the working principle of a basic voltage divider circuit.
+Explain the process of photolithography in IC fabrication.
+Describe & Classify Filters for Op-Amp?.
+What is Second Harmonic Distortion?.
+Explain TUNNEL DIODES?.
+Explain the significance of the propagation delay in digital circuits.
+What is center tapped Transformer?.
+What is beta Independent Design ?.
+What are the turn on voltages for different diodes?.
+Describe Push Pull Amplifier?.
+What happens when an SCR is in the **forward conducting** state?
+What is midband gain?.
+Explain the operation of an SCR in a single-phase inverter circuit.
+Discuss the role of passivation layers in IC fabrication.
+How does a carry-save adder (CSA) improve the speed of binary addition?
+What is Covalent Bond?.
+Describe the small-signal model of a CE amplifier and its use in small-signal analysis?.
+How does a triac provide bidirectional control of AC current?
+What is an integrated circuit (IC)?
+Describe the characteristics of FET?.
+Describe Effect of Rnot in hybrid r pie?.
+"What are the primary functions of a multimeter, and how is it used in electronic measurements?"
+"How do you derive the time constant for an RC circuit, and what does it signify in terms of circuit behavior?."
+what are the rules for binary addition?
+How does a phase-locked loop (PLL) work in frequency synthesis?
+Define the term 'voltmeter' and explain its basic working principle.
+Describe the operation and applications of a Hall effect sensor. ?.
+"How does a capacitor behave at different frequencies, and what implications does this have for AC and DC circuit analysis?."
+Describe the process of *pulse triggering* for an SCR
+What is Ladder Network Conversion?.
+What is p-type material?.
+What is a binary-coded decimal (BCD) and where is it used?
+What is Thevenin's voltage & resistance?.
+What is the purpose of a buffer IC in digital electronics?
+Describe Capacitor filter operation?.
+"How can you use a diode bridge for AC to DC conversion, and what are the advantages of this configuration?."
+Discuss the importance of layout design rules in IC fabrication.
+What is DIP Unit?.
+How many DC biasing are available in Electronics?.
+Describe The Constant-Voltage-Drop Model?.
+What is CMOS technology and why is it widely used in ICs?
+Describe UJT triggering of an SCR. ?.
+What is the significance of *reverse recovery time* in IGBT applications?
+What are the key considerations in the thermal management of ICs?
+What is a binary counter and how is it used in digital circuits?
+Describe Quad comparator IC?.
+How is an IGBT used in a high-frequency induction heating system?
+What is BJT stabalization ?.
+"How does a CRT create an image on the screen, and what are the key factors affecting the image quality?"
+"What are the primary uses of the BCD number system in digital devices, and how does it simplify calculations?"
+What is PHOTODIODES?.
+Compare and contrast NMOS and PMOS transistors.
+What is a JK flip-flop and how does it operate?
+What is the role of a comparator in digital systems?
+Describe the amplification region for diode?.
+What is the purpose of a binary ripple counter in digital electronics?
+Describe Terminal Characteristics of Junction Diodes?.
+What is Transistor Phase-Shift Oscillator?.
+What is PHOTOCONDUCTIVE CELLS?.
+What is DIAC?.
+How does the Early effect influence the behavior of BJTs and how can it be mitigated in circuit design?.
+what is unity gain amplifier?.
+What are the main applications of analog integrated circuits?
+What is the purpose of a choke in an electronic circuit?.
+What is a shift register and how can it be used to implement serial-to-parallel conversion?
+What are ideal diodes?.
+How does a triac control the brightness of a light bulb?
+What is a Johnson counter and how does it differ from a regular counter?
+What are the common methods used for IC packaging?
+What is the primary function of a capacitor in an electronic circuit?.
+What is Voltage Subtraction?.
+What is Voltage-series feedback?.
+Explain the difference between analog and digital signals.
+Describe Unity Gain Amlifier?.
+How does a flip-flop circuit store binary information?.
+What is transformer-coupled amplifier?.
+What is slew rate?.
+How does a Hall effect sensor detect magnetic fields?.
+Describe the conversion process from a decimal number to a binary number and convert the number 75 as an example.
+What is TRIAC?.
+Describe infrared-emitting diode?.
+Describe analog-to-digital conversion?.
+why are IC important in modern electronics?
+What is the purpose of a decoder in digital circuits?
+Describe Zero-crossing detector using IC?.
+What is multisim?.
+What is Nonlinear Distortion?.
+Describe passive infrarred motion detection?.
+What is Reverse Bias ?.
+What are the challenges in scaling down IC components to nanometer sizes?
+Explain the concept of electromagnetic interference EMI and its effects on electronic devices.
+Explain the concept of oversampling in ADCs.
+What is n-type material?.
+"How does Ohm's Law relate voltage, current, and resistance?."
+Explain the concept of a logic gate. What are the basic types of logic gates?
+What are the limits of operations in Transistor?.
+What is the difference between bipolar and unipolar ICs?
+Describe Harmonic Components??.
+How do you convert a binary number to its hexadecimal equivalent?
+How does a current transformer measure electrical current?.
+What is the role of a digital phase detector in a phase-locked loop (PLL)?
+How does a digital-to-analog converter (DAC) use a resistor network?
+What are the primary functions of an operational amplifier (op-amp) in ICs?
+Describe the role of doping in semiconductor manufacturing for ICs.
+What are Gate turn-off switches GTO?.
+What is Human Auditory Response ?.
+Describe NMOS & PMOS?.
+Describe the function of a parallel-in parallel-out shift register.
+Describe the operation of a basic LC inductor-capacitor circuit.
+What is IC Phase-Shift Oscillator?.
+What is Voltage Multiplier Circuit?.
+Discuss the importance of temperature stability in ICs.
+What is the purpose of using a bootstrap capacitor in a MOSFET driver circuit?.
+What are the limitations of bridge rectifier voltmeters when measuring low-frequency signals?
+What is the function of a rectifier in power supply circuits?.
+What are the typical failure modes of an SCR?
+What is the purpose of a *snubber circuit* for an IGBT?
+Explain the difference between an NPN and a PNP transistor.
+What is count interval for a dual-slope converter?.
+What are the main types of memory ICs and their uses?
+Explain Operation of LIGHT-ACTIVATED SCR?.
+How is an SCR protected against overcurrent conditions?
+Explain the working principle of a NAND gate. Provide its truth table.
+How does a power MOSFET function in an inverter circuit?
+"What is the function of the vertical deflection plates in a CRT, and how do they affect the electron beam?"
+Explain the principle of *phase-shifted modulation* in IGBT inverters.
+What is the purpose of a timing diagram in the design of digital circuits?
+How does a binary ripple counter work?
+What is AC biasing?.
+Explain the significance of power dissipation in IC design.
+What are the typical methods for turning off an SCR?
+Describe the role of an SCR in a three-phase rectifier?
+What are the advantages of using SCRs in power electronics?
+How does a NOR gate differ from an OR gate? Provide the truth table for a NOR gate.
+Describe the operation of a Schmitt trigger IC.
+How do you use a Karnaugh map to simplify a Boolean function?
+Describe Series-Resonant Circuits?.
+Describe application of an LASCR is in the AND and OR circuits?.
+Explain the working of a decade counter.
+"How does an inductor store energy, and in what form?."
+How does an IGBT contribute to the operation of a flyback converter?
+What is the difference between a triac and a diac?
+How does a clock divider circuit work in digital electronics?
+Describe RIPPLE VOLTAGE OF CAPACITOR FILTER?.
+Why Current Flow Is Off is PN Junction Reverse Bias?.
+What are active electronic components?.
+Describe the working of a binary encoder.
+What is Hartley Oscillator?.
+Describe the charge and discharge process of a capacitor in an RC circuit. How can this be modeled mathematically?.
+Explain the concept of *thermal runaway* in SCR devices.
+How does a light-emitting diode LED differ from a standard diode?.
+"How does temperature affect the resistance of conductors and semiconductors, and what are the implications for electronic circuit design?."
+How does a counter work in a digital clock?
+Describe Multiple stage gain?.
+"Explain the demerits of using a VTVM, especially in comparison with digital voltmeters."
+What is thermal noise ?.
+What is Bandpass Active Filter?.
+Explain the architecture of a digital signal processor (DSP).
+How do you implement a 4-bit priority encoder?
+What are the functions of the three main terminals of an SCR?
+Describe how an FPGA can be programmed to implement a digital circuit.
+What are the different types of semiconductor materials used in electronics?.
+What is the purpose of a bypass capacitor in power supply circuits?.
+What is Thermal-to-electrical analogy?.
+What is the role of an IGBT in a static VAR compensator?
+How does a binary counter differ from a BCD counter?
+What is Current-shunt feedback?.
+Describe the role of a transistor in an amplifier circuit.
+Explain the concept of an RLC resistor-inductor-capacitor circuit. ?.
+Explain the process of designing a 4-bit binary adder using full adders.
+What is JFET?.
+What is an XOR gate? Explain with a truth table.
+Explain the concept of *duty cycle* in IGBT-based switching circuits.
+Discuss the significance of the hexadecimal number system in computer science and digital electronics.
+"How does a 3-to-8 line decoder work, and where is it used?"
+Describe the basic structure of a power MOSFET.
+What is Complementary-Symmetry Circuits?.
+Describe the principle of *zero-crossing* switching with SCRs.
+Explain the use of an SCR in an inverter circuit?
+Describe Operation of a timer circuit?.
+Compare and contrast the functionality of a voltmeter and an ammeter.
+What is the conducting period for diode?.
+What is the significance of the least significant bit (LSB) and most significant bit (MSB)?
+Describe the role of a microprocessor in an IC.
+Describe how an SCR can be used in a battery charger?
+"Explain the energy band theory and how it differentiates between conductors, insulators, and semiconductors."
+"Magnitude of the gate current is a great factor for silicon-controlled rectifier SCR,explain?."
+Explain the difference between a flash ADC and a successive approximation ADC.
+What are Light-activated SCRs LSCR?.
+How does a dual-slope ADC achieve high accuracy in digital conversion?
+What is miller effect capacitance?.
+Describe the method to convert a decimal number to an octal number. Provide an example with the number 100.
+Describe Operation of phase-locked loops?.
+What is Constant Gain Multilfier?.
+Explain Latching Relay of LASCR?.
+What is a charge-coupled device (CCD) and where is it used?
+What is the difference between a power MOSFET and a regular MOSFET?
+What is Ripple Voltage VrRMS?.
+Explain the concept of noise margin in digital ICs.
+How do you design a BJT switch for high-speed applications?.
+What are the different types of noise in electronic circuits and how can they be mitigated?.
+Explain the concept of **threshold voltage** in a power MOSFET.
+Describe the process of *forced commutation* in SCRs?
+Explain the function of an analog-to-digital converter (ADC) in an IC.
+What is the significance of the *reverse recovery time* in an SCR?
+Explain operation of Battery-Charging Regulator?.
+Describe High frequency response for BJT amplifier?.
+What is a synchronous counter and how is it different from an asynchronous counter?
+Describe the operation of a 4-to-16 line decoder.
+Explain the operation of a diac in triggering a triac.
+Define Clipper & Clamper Circuit?.
+Explain the process of converting a binary number to a BCD number. Convert the binary number 1011 to its BCD equivalent.
+Explain how a shift register can be used to generate a pseudo-random binary sequence.
+What is Transistor Hartley Oscillator?.
+What is phase-shift oscillator. ?.
+How does the choice between n-channel and p-channel MOSFETs impact the efficiency and design of power electronic circuits?.
+What are the key differences between a VTVM (Vacuum Tube Voltmeter) and a traditional analog voltmeter?
+Describe how an arithmetic logic unit (ALU) functions in a digital circuit.
+How do integrated circuits support advancements in telecommunications?
+What is SERIES-FED CLASS A AMPLIFIER?.
+Describe basic construction of a silicon p  n junction solar cell?.
+How does an IGBT function in a pulse-width modulation (PWM) inverter?
+What is high pass filter?.
+Describe the basic construction of an SCR?
+What are the advantages of using a switch-mode power supply SMPS?.
+How is an IGBT used in a *chopper circuit*?
+Define the concept of a finite state machine (FSM).
+How is an SCR used in overvoltage protection circuits?
+Describe Frequency Spectrum of Signals?.
+Describe Power Calculation Of Amplifiers?.
+Why Feedback circuit used as an oscillator. ?.
+Describe depletion type MOSFET?.
+Explain the concept of *thermal impedance* in IGBT devices.
+Define voltage regulation in terms of diode?.
+What is threshold voltage?.
+Explain the function of a phase-locked loop (PLL) in digital communication.
+Explain the concept of *natural commutation* in SCRs?
+What is Forward Bias ?.
+What is inverting & non inverting amplifier?.
+Describe the function of the time base control in a CRO and its importance in waveform analysis.
+Describe the function of an AND gate and provide its truth table.
+Why is a BJT considered a current-controlled device?.
+Explain Varactor Varicap Diodes?.
+How do you calculate the power dissipation in a BJT?.
+Explain OPTO-ISOLATORS?.
+Describe the use of a watchdog timer in digital systems.
+How does a thermistor differ from a regular resistor?.
+Explain the working principle of an analog-to-digital converter (ADC).
+Describe SCHOTTKY BARRIER HOT-CARRIER DIODES?.
+Describe Capacitive Effects in the pn Junction?.
+Explain the concept of *zero-crossing* in triac control.
+Describe Adjustable-Voltage Regulators?.
+How do you calculate the capacitance of a parallel plate capacitor?.
+Describe the process of designing a 4-bit binary multiplier using logic gates.
+Explain the concept of *phase control* using an SCR?
+What is Light Emitting diode?.
+What is Transistor Colpitts Oscillator?.
+What is the purpose of a watchdog timer IC in embedded systems?
+List the primary merits of using a CRO for electronic measurements and testing.
+Describe the function of a programmable logic device (PLD).
+What are the offset parameters for OP-AMP?.
+What is low pass Filter?.
+Describe Variable-Resistance Phase Control?.
+What is ripple?.
+What are majority Carriers?.
+Describe the purpose of a voltage regulator IC.
+How does an IGBT function in a unified power flow controller?
+What is 3 channel Audio mixer?.
+How does an IGBT function in a high-voltage direct current (HVDC) system?
+Describe Colpitts Oscillator?.
+What is diffusion capacitance?.
+What is the function of a look-ahead carry adder?
+What is UNIJUNCTION OSCILLATOR?.
+What materials are typically used as substrates in ICs and why?
+How does an SCR function in a full-wave rectifier circuit?
+What is IGBT?
+Describe the role of a *freewheeling diode* in IGBT circuits.
+Describe the advantages of using a VTVM for measuring high-frequency signals compared to other voltmeters.
+Describe operation of Oscillator ?.
+How is an IGBT used in a resonant converter?

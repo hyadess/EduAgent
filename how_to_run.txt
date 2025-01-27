@@ -1,0 +1,25 @@
+with yml file-->
+
+1) install conda
+2) then run this command to create an env in conda:
+        conda env create -f environment.yml
+3) then activate the env
+        conda activate uap-eee
+
+
+** if it doesn't work, you might need to change prefix in the yml file. read the yml file
+
+** how to create a new yml file: 'conda env export --no-builds > environment.yml'
+
+
+with .txt file -->
+
+after installing conda, run 'pip install -r requirements.txt'
+then activate the env
+
+
+
+
+then run -->
+
+pip install -U "huggingface_hub[cli]"

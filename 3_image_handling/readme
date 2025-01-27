@@ -1,0 +1,17 @@
+# ensure that no two images have same name in the csv or image folder..........
+
+
+# all the columns in the csv file should be same for merging the csv files
+
+
+# now run in this format -->
+
+# merge_explanations.py --> image_name_checker.py --> supabase_upload.py
+
+
+
+
+# name changes in the 'merged_with_image_urls' file
+
+--> SLope -> dual_slope_ADC
+

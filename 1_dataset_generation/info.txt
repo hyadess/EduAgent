@@ -1,0 +1,139 @@
+Area counts
+Electronic Components and Applications: 140
+Power Electronics: 120
+Amplifiers and Oscillators: 69
+Digital Electronics: 69
+Transistors: 69
+Rectification and Diode Circuits: 40
+Electronic Instruments: 34
+Miscellaneous Topics: 27
+Logic Gates: 22
+Adders: 6
+
+
+Topic counts
+SCR (Silicon Controlled Rectifier): 39
+Amplifier: 37
+MOSFET (Metal-Oxide-Semiconductor Field-Effect Transistor): 26
+IGBT as Inverter: 22
+Digital Electronics: 21
+Capacitor: 20
+BJT (Bipolar Junction Transistor): 20
+Diode: 20
+IGBT (Insulated Gate Bipolar Transistor): 19
+555 Timer: 18
+LED (Light Emitting Diode): 17
+Shockley’s Equation: 16
+RLC Circuit (Resistor, Inductor, Capacitor Circuit): 15
+RC Circuit (Resistor, Capacitor Circuit): 14
+Photodiodes: 14
+RTL (Resistor-Transistor Logic): 13
+Oscillator: 12
+TRIAC (Triode for Alternating Current) Application: 12
+Electronic Instruments: 11
+AND Gate: 11
+Load Line Shift for Transistor: 11
+Multimeter: 9
+OP AMP (Operational Amplifier): 7
+LSCR (Light-Triggered Silicon Controlled Rectifier): 7
+Bridge Rectifier: 7
+Electronic Components and Applications: 6
+SCR as Inverter: 6
+TTL (Transistor-Transistor Logic): 6
+Miscellaneous Topics: 5
+Rectification: 5
+Cathode Ray Oscilloscope: 5
+Astable Multivibrator: 5
+Miller Effect Capacitance: 5
+Ripples: 5
+UJT (Unijunction Transistor): 4
+ADC (Analog-to-Digital Converter): 4
+CRT (Cathode Ray Tube): 4
+Comparator: 4
+VTVM (Vacuum Tube Voltmeter): 4
+Thevenin Voltage and Norton Current: 3
+Biasing (DC, AC): 3
+Voltage Buffer, Subtraction (Using OP AMP): 3
+Implementation of Full Adder Using Half Adder: 3
+Integrated Circuits (ICs): 3
+Photoconductive Cells: 3
+JFET (Junction Field-Effect Transistor): 3
+SCR in Rectifiers: 3
+Full Adder: 2
+Shift Register: 2
+Decoder: 2
+GTO (Gate Turn-Off Thyristor): 2
+Sawtooth Generator: 2
+NOT Gate: 2
+Voltage Regulator IC: 2
+DIAC (Diode for Alternating Current): 2
+Resistor: 2
+FET (Field-Effect Transistor): 2
+Karnaugh Map: 1
+Basic Electronic Component : 1
+Center Tapped Transformer: 1
+NMOS (N-type Metal-Oxide-Semiconductor) & PMOS (P-type Metal-Oxide-Semiconductor) Transistors: 1
+JK flip-flop: 1
+Integrated Circuit (IC) Manufacturing: 1
+Forward Conducting Mode of SCR: 1
+UMOS (U-shaped Metal-Oxide-Semiconductor): 1
+SCS (Silicon Controlled Switch): 1
+PMOS (P-type Metal-Oxide-Semiconductor): 1
+XOR Gate: 1
+Flip-Flop Circuit: 1
+Binary Number Conversion: 1
+Voltage Regulator: 1
+Finite State Machine (FSM): 1
+ALU (Arithmetic Logic Unit): 1
+Synchronous Counter: 1
+ADC (Analog to Digital Converter): 1
+Conversion of Decimal to Octal: 1
+Flash ADC vs. Successive Approximation ADC: 1
+Semiconductors: 1
+Half Adder: 1
+Digital Signal Processor (DSP): 1
+Counter: 1
+NOR Gate: 1
+Cathode Ray Tube: 1
+NAND Gate: 1
+NMOS (N-type Metal-Oxide-Semiconductor) and PMOS (P-type Metal-Oxide-Semiconductor): 1
+ROM and RAM: 1
+Voltage Reference IC: 1
+Bandgap Reference: 1
+Power Transistor: 1
+Reverse Blocking Mode of SCR: 1
+Mixed-Signal IC: 1
+FSK (Frequency Shift Keying) Decoders: 1
+Crystals (XTAL): 1
+Binary-coded Decimal (BCD): 1
+Magnitude Comparator: 1
+Relay: 1
+DTL (Diode-Transistor Logic): 1
+Thyristor: 1
+Construction of Transistors: 1
+Multiplexers (MUX): 1
+SR flip-flop: 1
+Sigma-Delta ADC: 1
+NMOS (N-type Metal-Oxide-Semiconductor): 1
+Flip-Flop: 1
+DAC (Digital-to-Analog Converter): 1
+De Morgan's Theorems: 1
+Mux and Demux: 1
+Universal Gates: 1
+Varistor: 1
+Bipolar Junction Transistor: 1
+Finite Impulse Response (FIR) Filter: 1
+TRIAC (Triode for Alternating Current): 1
+Clipper and Clamper Circuits: 1
+Intrinsic and Extrinsic Semiconductors: 1
+Ripple Carry Counter: 1
+Binary-Coded Decimal (BCD): 1
+Digital-to-Analog Converter (DAC): 1
+Nyquist Rate and Digital Sampling: 1
+Thermistor: 1
+Crystal Oscillator: 1
+LCD (Liquid Crystal Display): 1
+OR Gate: 1
+ICs (Integrated Circuits): 1
+
+
