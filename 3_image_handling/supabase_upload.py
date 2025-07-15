@@ -49,7 +49,7 @@ def upload_and_get_image_url(file_path):
 import pandas as pd
 
 # Read the CSV file
-df = pd.read_csv('./resources/new2.csv')
+df = pd.read_csv('./resources/with_urls.csv')
 
 # Get the names of the images from the folder with extension
 image_names = os.listdir('./images')
@@ -59,6 +59,7 @@ csv_image_names = df['name'].tolist()
 
 #create a new column in the csv
 df=df[['name','explanation']]
+
 df['image_url'] = None
 
 # Iterate over the rows of the CSV, if duplicate arises, remove that row from csv
@@ -81,7 +82,7 @@ for index, row in df.iterrows():
 
 # Save the updated CSV
 
-df.to_csv('./resources/new_with_image_url.csv', index=False)
+df.to_csv('./resources/with_image_urls.csv', index=False)
 
 #length of the updated csv
 print('Number of rows in the updated csv:', len(df))
