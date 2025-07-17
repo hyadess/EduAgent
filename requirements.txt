@@ -35,3 +35,4 @@ rank_bm25
 ragas
 
 seaborn
+scikit-learn
