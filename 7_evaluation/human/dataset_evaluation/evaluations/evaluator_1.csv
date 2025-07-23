@@ -46,7 +46,15 @@ A dual-mode counter is designed to function either as an up-counter or a down-co
 
 6. **Metastability Characteristics:** If the circuit involves asynchronous signals, select flip-flops with favorable metastability characteristics.
 
-7. **Feedback Complexity:** Consider how the choice of flip-flop might affect the complexity of the feedback loop logic, as some designs may require additional logic elements to work with certain flip-flop types.",5,4,4,,""
+7. **Feedback Complexity:** Consider how the choice of flip-flop might affect the complexity of the feedback loop logic, as some designs may require additional logic elements to work with certain flip-flop types.",5,4,4,,"give scores on a scale of 1 to 5
+
+1 means very bad, 5 means very good
+
+correctness -> score poorly if you think the response is not correct
+
+conciseness -> score poorly if the answer has redundant info in complex language
+
+completeness -> score poorly if the reply doesn't answer the question completely"
 Describe Peak Diode Current?.,"Before explaining Peak Diode Current, you should be familiar with diode characteristics, load resistance, input voltage, and the operation of rectifier circuits.
 
 Peak Diode Current is the maximum instantaneous current that flows through the diode when it is in the forward-biased condition. It occurs when the input voltage reaches its peak value. To find it:
@@ -221,7 +229,7 @@ Explanation:
 7. **Skew Management**:
    - Adjust skew between NMOS and PMOS to ensure that logic levels are achieved within the desired timing windows. This involves careful timing analysis and adjustment.
 
-By systematically addressing these considerations, balanced propagation delays can be maintained, optimizing both power efficiency and performance in integrated circuits.",4,4,4,,
+By systematically addressing these considerations, balanced propagation delays can be maintained, optimizing both power efficiency and performance in integrated circuits.",5,5,4,,
 Define a digital signal. How is it different from an analog signal?,"Before understanding digital and analog signals, you should learn about signal processing, sampling, and waveforms.
 
 A digital signal is a discrete signal that is represented by binary numbers, usually consisting of 0s and 1s. In contrast, an analog signal is continuous and can take any value within a given range. 
@@ -272,7 +280,7 @@ In designing digital systems, engineers often seek a balance between achieving s
 
 6. **Cost and Complexity**: Evaluate cost implications and system complexity, balancing them against the desired signal fidelity and application requirements. 
 
-Striking the right balance between data throughput and signal fidelity is crucial for optimal system performance.",4,5,3,,
+Striking the right balance between data throughput and signal fidelity is crucial for optimal system performance.",4,5,3.5,,
 Describe the purpose of a voltage reference IC.,"Prior to understanding this query, one should learn about voltage references, IC (Integrated Circuit) basics, and electronic circuit design principles.
 
 The purpose of a voltage reference IC is to provide a stable and precise voltage output, regardless of variations in supply voltage, temperature, and load conditions. This stable voltage is used as a benchmark in various electronic applications for accurate measurements and comparisons.",How do temperature coefficients in voltage reference ICs affect their performance in precision applications?,"Prior to this query, knowledge on temperature coefficients, voltage reference IC operation, and the effect of temperature on electronic circuits needs to be learned.
@@ -567,7 +575,7 @@ By considering these factors, a gate driver circuit can significantly reduce swi
    - **Thick and Wide PCB Traces**: Utilize thicker and wider traces or planes for power paths to reduce inductance.
    - **Decoupling Capacitors**: Place decoupling capacitors close to the IGBT module terminals to help suppress voltage spikes and reduce inductance effects.
 
-By addressing these factors during the design phase, the adverse effects of parasitic inductance in high-frequency IGBT applications can be effectively mitigated.",4,4,3,,
+By addressing these factors during the design phase, the adverse effects of parasitic inductance in high-frequency IGBT applications can be effectively mitigated.",4,4,4,,
 How do integrated circuits support advancements in telecommunications?,"Prior to addressing this query, understanding key terms such as integrated circuits, telecommunications systems, miniaturization, digital signal processing (DSP), and Moore's Law is essential.
 
 Integrated circuits (ICs) support advancements in telecommunications through:
@@ -804,4 +812,4 @@ Overall, incorporating soft switching techniques in IGBT-based converters positi
    - Operating at higher frequencies can lead to smaller passive components (inductors, capacitors), which can increase overall converter efficiency.
    - The balance between switching and conduction losses is crucial; resonant converters must be designed to operate at an optimal frequency where these losses are minimized collectively.
 
-In summary, while higher switching frequencies enabled by soft switching reduce switching losses, the design must ensure that conduction losses are likewise minimized to achieve maximal efficiency. This involves finding an optimal frequency that balances both types of losses effectively.",5,4,3, ,
+In summary, while higher switching frequencies enabled by soft switching reduce switching losses, the design must ensure that conduction losses are likewise minimized to achieve maximal efficiency. This involves finding an optimal frequency that balances both types of losses effectively.",5,4,4, ,

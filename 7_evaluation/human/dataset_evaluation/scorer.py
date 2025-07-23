@@ -15,7 +15,7 @@ avg_df1['conciseness_avg'] = (avg_df1['conciseness_evaluator1'] + avg_df1['conci
 avg_df1 = avg_df1[['correctness_avg', 'completeness_avg', 'conciseness_avg']]
 
 # save to csv
-avg_df1.to_csv('./evaluations/average_scores_1.csv', index=False)
+# avg_df1.to_csv('./evaluations/average_scores_1.csv', index=False)
 print(len(avg_df1), "rows written to evaluations/average_scores_1.csv")
 
 
@@ -30,7 +30,7 @@ avg_df2['completeness_avg'] = (avg_df2['completeness_evaluator3'] + avg_df2['com
 avg_df2['conciseness_avg'] = (avg_df2['conciseness_evaluator3'] + avg_df2['conciseness_evaluator4']) / 2
 avg_df2 = avg_df2[['correctness_avg', 'completeness_avg', 'conciseness_avg']]
 # save to csv
-avg_df2.to_csv('./evaluations/average_scores_2.csv', index=False)
+# avg_df2.to_csv('./evaluations/average_scores_2.csv', index=False)
 print(len(avg_df2), "rows written to evaluations/average_scores_2.csv")
 
 #----------------------------------------------------------------------------------------------
@@ -43,8 +43,8 @@ avg_df3['completeness_avg'] = (avg_df3['completeness_evaluator5'] + avg_df3['com
 avg_df3['conciseness_avg'] = (avg_df3['conciseness_evaluator5'] + avg_df3['conciseness_evaluator6']) / 2
 avg_df3 = avg_df3[['correctness_avg', 'completeness_avg', 'conciseness_avg']]
 # save to csv
-avg_df3.to_csv('./evaluations/average_scores_3.csv', index=False)
-print(len(avg_df3), "rows written to evaluations/average_scores_3.csv")
+# avg_df3.to_csv('./evaluations/average_scores_3.csv', index=False)
+# print(len(avg_df3), "rows written to evaluations/average_scores_3.csv")
 #----------------------------------------------------------------------------------------------
 
 
@@ -61,7 +61,7 @@ avg_df_all.rename(columns={'correctness_avg': 'correctness',
 
 
 # save to csv
-avg_df_all.to_csv('./evaluations/average_scores_all.csv', index=False)
+# avg_df_all.to_csv('./evaluations/average_scores_all.csv', index=False)
 
 
 print(len(avg_df_all), "rows written to evaluations/average_scores_all.csv")

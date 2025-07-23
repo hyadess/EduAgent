@@ -29,7 +29,7 @@ def calculate_kappa(df_a, df_b, id_col, suffix_a, suffix_b):
             rounded_a.append(ra)
             rounded_b.append(rb)
 
-        score = cohen_kappa_score(rounded_a, rounded_b, weights='quadratic')
+        score = cohen_kappa_score(rounded_a, rounded_b, weights='linear')
         kappa_scores[col] = score
 
     return kappa_scores

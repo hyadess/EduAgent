@@ -36,3 +36,5 @@ ragas
 
 seaborn
 scikit-learn
+
+krippendorff

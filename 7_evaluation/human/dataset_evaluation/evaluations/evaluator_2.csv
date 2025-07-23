@@ -46,7 +46,15 @@ A dual-mode counter is designed to function either as an up-counter or a down-co
 
 6. **Metastability Characteristics:** If the circuit involves asynchronous signals, select flip-flops with favorable metastability characteristics.
 
-7. **Feedback Complexity:** Consider how the choice of flip-flop might affect the complexity of the feedback loop logic, as some designs may require additional logic elements to work with certain flip-flop types.",4.5,4.5,4,,""
+7. **Feedback Complexity:** Consider how the choice of flip-flop might affect the complexity of the feedback loop logic, as some designs may require additional logic elements to work with certain flip-flop types.",5,4.5,4,,"give scores on a scale of 1 to 5
+
+1 means very bad, 5 means very good
+
+correctness -> score poorly if you think the response is not correct
+
+conciseness -> score poorly if the answer has redundant info in complex language
+
+completeness -> score poorly if the reply doesn't answer the question completely"
 Describe Peak Diode Current?.,"Before explaining Peak Diode Current, you should be familiar with diode characteristics, load resistance, input voltage, and the operation of rectifier circuits.
 
 Peak Diode Current is the maximum instantaneous current that flows through the diode when it is in the forward-biased condition. It occurs when the input voltage reaches its peak value. To find it:
@@ -88,7 +96,7 @@ By implementing these adjustments, the adverse effects on peak diode current due
    - **Thermal Management:** Consider the thermal impact, as longer reverse recovery times can lead to increased heat generation, impacting thermal management strategies.
    - **Circuit Stability:** Evaluate the requirements for circuit stability and EMI reduction, which may necessitate using diodes with optimized reverse recovery performance.
 
-By selecting diodes based on their reverse recovery characteristics, the impact on transient response can be minimized, leading to more efficient and stable rectifier circuits.",4,4.5,4,,
+By selecting diodes based on their reverse recovery characteristics, the impact on transient response can be minimized, leading to more efficient and stable rectifier circuits.",5,4.5,4,,
 How do you design a MOSFET common-source amplifier with a given gain?.,"You need to learn about MOSFET operation, small signal models, biasing techniques, and gain equations for amplifiers.
 
 1. **Determine the Required Gain**: Begin with the target voltage gain \( A_v = -g_m \cdot R_D \), where \( g_m \) is the transconductance and \( R_D \) is the drain resistor.
@@ -272,7 +280,7 @@ In designing digital systems, engineers often seek a balance between achieving s
 
 6. **Cost and Complexity**: Evaluate cost implications and system complexity, balancing them against the desired signal fidelity and application requirements. 
 
-Striking the right balance between data throughput and signal fidelity is crucial for optimal system performance.",4,3.5,4,,
+Striking the right balance between data throughput and signal fidelity is crucial for optimal system performance.",4,4.5,4,,
 Describe the purpose of a voltage reference IC.,"Prior to understanding this query, one should learn about voltage references, IC (Integrated Circuit) basics, and electronic circuit design principles.
 
 The purpose of a voltage reference IC is to provide a stable and precise voltage output, regardless of variations in supply voltage, temperature, and load conditions. This stable voltage is used as a benchmark in various electronic applications for accurate measurements and comparisons.",How do temperature coefficients in voltage reference ICs affect their performance in precision applications?,"Prior to this query, knowledge on temperature coefficients, voltage reference IC operation, and the effect of temperature on electronic circuits needs to be learned.
@@ -307,7 +315,7 @@ When selecting a voltage reference IC based on noise performance for a high-prec
 
 5. **Noise Filtering**: Look for ICs that offer internal noise filtering options to reduce additional noise components that might affect precision.
 
-Selecting based on these factors ensures the voltage reference meets the noise performance requirements of your high-precision application.",5,5,4.5,,
+Selecting based on these factors ensures the voltage reference meets the noise performance requirements of your high-precision application.",5,4,4.5,,
 How does a sigma-delta ADC work and where is it used?,"Before addressing the query, it's necessary to learn about analog-to-digital conversion, oversampling, quantization noise, noise shaping, and digital filtering.
 
 A sigma-delta ADC (Analog-to-Digital Converter) works as follows:
@@ -434,7 +442,7 @@ The trade-offs involved in selecting the loop bandwidth include:
    - **Wide Bandwidth**: May increase the visibility of reference spurs as the loop more readily passes the harmonics of the reference frequency.
    - **Narrow Bandwidth**: Better suppresses reference spurs, as it limits the passage of these harmonics, providing cleaner output.
 
-Optimal loop bandwidth selection requires balancing these trade-offs based on the specific requirements of the communication system, such as desired noise performance, response speed, and spectral purity.",5,4,5,,
+Optimal loop bandwidth selection requires balancing these trade-offs based on the specific requirements of the communication system, such as desired noise performance, response speed, and spectral purity.",4.5,4,5,,
 List the primary merits of using a CRO for electronic measurements and testing.,"Prior to addressing this question, you should be familiar with the basic functioning of a Cathode Ray Oscilloscope (CRO), waveform analysis, and basic electronic circuit components.
 
 The primary merits of using a CRO for electronic measurements and testing are:
@@ -622,7 +630,7 @@ Integrated circuits enhance power efficiency in modern wireless communication sy
 
 5. **Integration of Multiple Functions**: Combining several functionalities into a single IC reduces the need for multiple chips, thereby lowering the overall power consumption of the system.
 
-These improvements collectively contribute to the energy efficiency of wireless communication systems, allowing for longer battery life and reduced operational costs.",5,4,4,,
+These improvements collectively contribute to the energy efficiency of wireless communication systems, allowing for longer battery life and reduced operational costs.",4.5,4,4,,
 What are the advantages and disadvantages of using the octal number system compared to the binary system?,"Prior to addressing this query, you should understand number systems, particularly binary and octal formats, and how to convert between them.
 
 Advantages of using the octal number system compared to binary:
