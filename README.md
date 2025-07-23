@@ -11,6 +11,8 @@
 
 The full dataset is in [this](https://github.com/hyadess/EduAgent/tree/main/1_dataset_generation/resources) folder.
 
+the sources of images are listed [here](https://docs.google.com/spreadsheets/d/1WA7bqmWQvPJXqEHQLEMmRwmhFM0_5P-TKebq2pnSHgc/edit?usp=drivesdk)
+
 The retrieved image test dataset is in [this](https://github.com/hyadess/EduAgent/tree/main/4_image_vectorization/resources) folder.
 
 ## Notebooks
